@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presupuesto>
+  <cliente>INSTALACIONES SAA</cliente>
+  <atencion>Ing. Matias</atencion>
+  <nombre>NUEVA CLINICA</nombre>
+  <codCliente>M&amp;F</codCliente>
+  <codigo>INE-1660</codigo>
+  <Vbase>380</Vbase>
+  <creadoPor>wilmer</creadoPor>
+  <terminPor></terminPor>
+  <revisPor></revisPor>
+  <cerradPor></cerradPor>
+  <fechaCreac>2016:06:01:11:07:06</fechaCreac>
+  <fechaTermi>2018:06:18:01:23:34</fechaTermi>
+  <fechaRevis>1899:12:30:00:00:00</fechaRevis>
+  <fechaCierr>1899:12:30:00:00:00</fechaCierr>
+  <estado>1</estado>
+  <igv>18</igv>
+  <utilid>20</utilid>
+  <dsctAdic>0</dsctAdic>
+  <planDesc>ABB36.2producto0000
+SCHNEIDER42suma0000
+</planDesc>
+  <fecIniObra>2016:06:01:11:07:06</fecIniObra>
+  <fecFinObra>2016:07:01:11:07:06</fecFinObra>
+  <obraPor></obraPor>
+  <tableros>
+    <tablero cod="G01660A.TTA-1" zoom="0.200000003" nombre="TTA-1" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0011" modelo="T7S" nombre="transferencia de 4x1600 A, tetra" CtoUnit="39985" Hor_hom="." Arc_imag="ABB-TR.T7.4" Id_almac="2377T7S4x1600" cantidad="1" dctoadic="36.20000076" Categoria="Transferencia Automatica" CodProduc="">
+        <descrip>Transferencia automÃ¡tica de 1600A, equipada con:
+    02 Interruptores termomagnÃ©ticos de 4x1600A, modelo T7S(M)
+    02 Motor de recarga, relÃ©s de apertura y cierre
+    01 Kit de enclavamiento mecÃ¡nico
+    01 Kit de enclavamiento elÃ©ctrico
+    01 Conjunto de fusibles, borneras y accesorios de control</descrip>
+        <Definic>=2*@1SDA063018R1+2*@1SDA062116R1+2*@1SDA063548R1+2*@1SDA063550R1+2*@1SDA062102R1+2*@1SDA063553R1+2*@1SDA062129R1+1*@1SDA062127R1+2*@1SBL137001R1301+2*@1SBN010110R1010+1*@1SBN030111R1000</Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0072" modelo="ATS022" nombre="mÃ³dulo de transferencia automÃ¡tica AtS022" CtoUnit="3918" Hor_hom="." Arc_imag="ABB-MT.22" Id_almac="1SDA065524R1" cantidad="1" dctoadic="36.20000076" Categoria="Modulo de Transferencia" CodProduc="1SDA065524R1">
+        <descrip>MÃ³dulo de transferencia automÃ¡tica, modelo ATS022, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TTA-2" zoom="0.200000003" nombre="TTA-2" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0011" modelo="T7S" nombre="transferencia de 4x1600 A, tetra" CtoUnit="39985" Hor_hom="." Arc_imag="ABB-TR.T7.4" Id_almac="2377T7S4x1600" cantidad="1" dctoadic="36.20000076" Categoria="Transferencia Automatica" CodProduc="">
+        <descrip>Transferencia automÃ¡tica de 1600A, equipada con:
+    02 Interruptores termomagnÃ©ticos de 4x1600A, modelo T7S(M)
+    02 Motor de recarga, relÃ©s de apertura y cierre
+    01 Kit de enclavamiento mecÃ¡nico
+    01 Kit de enclavamiento elÃ©ctrico
+    01 Conjunto de fusibles, borneras y accesorios de control</descrip>
+        <Definic>=2*@1SDA063018R1+2*@1SDA062116R1+2*@1SDA063548R1+2*@1SDA063550R1+2*@1SDA062102R1+2*@1SDA063553R1+2*@1SDA062129R1+1*@1SDA062127R1+2*@1SBL137001R1301+2*@1SBN010110R1010+1*@1SBN030111R1000</Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0073" modelo="ATS021" nombre="mÃ³dulo de transferencia automÃ¡tica AtS021" CtoUnit="2838" Hor_hom="." Arc_imag="ABB-MT.21" Id_almac="1SDA065523R1" cantidad="1" dctoadic="0" Categoria="Modulo de Transferencia" CodProduc="1SDA065523R1">
+        <descrip>MÃ³dulo de transferencia automÃ¡tica, modelo ATS021, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TG-1" zoom="0.200000003" nombre="TG-1" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0088" modelo="T7SM" nombre="interruptor de 4x1600 A (m), tetra" CtoUnit="14852" Hor_hom="." Arc_imag="ABB-IN.T7.4.M" Id_almac="1SDA063018R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA063018R1">
+        <descrip>Int. termomagnÃ©tico de 4x1600A, 85/50/40kA-220/380/440V, modelo T7S (M), marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0122" modelo="T4N" nombre="interruptor de 4x320 A, tetra" CtoUnit="2331" Hor_hom="." Arc_imag="ABB-IN.T4.4" Id_almac="1SDA054121R1" cantidad="2" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA054121R1">
+        <descrip>Int. termomagnÃ©tico de 4x320A, 70/36/30kA-220/380/440V, modelo T4N, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0136" modelo="T3N" nombre="interruptor de 4x200 A, tetra" CtoUnit="1207" Hor_hom="." Arc_imag="ABB-IN.T3.4" Id_almac="234851T402003N" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA051305R1">
+        <descrip>Int. termomagnÃ©tico de 4x200A, 50/36/25kA-220/380/440V, modelo T3N, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0247" modelo="XT1C" nombre="interruptor de 4x160 A" CtoUnit="706" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067410R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067410R1">
+        <descrip>Int. termomagnÃ©tico de 4x160A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2400" y="2400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0249" modelo="XT1C" nombre="interruptor de 4x100 A" CtoUnit="587" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067406R1" cantidad="1" dctoadic="0" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067406R1">
+        <descrip>Int. termomagnÃ©tico de 4x100A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0250" modelo="XT1C" nombre="interruptor de 4x80 A" CtoUnit="587" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067405R1" cantidad="4" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067405R1">
+        <descrip>Int. termomagnÃ©tico de 4x80A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0251" modelo="XT1C" nombre="interruptor de 4x63 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067404R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067404R1">
+        <descrip>Int. termomagnÃ©tico de 4x63A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0252" modelo="XT1C" nombre="interruptor de 4x50 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067403R1" cantidad="4" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067403R1">
+        <descrip>Int. termomagnÃ©tico de 4x50A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0253" modelo="XT1C" nombre="interruptor de 4x40 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067402R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067402R1">
+        <descrip>Int. termomagnÃ©tico de 4x40A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0254" modelo="XT1C" nombre="interruptor de 4x32 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067401R1" cantidad="5" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067401R1">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0255" modelo="XT1C" nombre="interruptor de 4x25 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067400R1" cantidad="5" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067400R1">
+        <descrip>Int. termomagnÃ©tico de 4x25A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0537" modelo="XT1-XT4" nombre="contacto aux.XT1-XT4, estado - seÃ±alizacion de disparo" CtoUnit="109" Hor_hom="." Arc_imag="" Id_almac="1SDA066422R1" cantidad="25" dctoadic="36.20000076" Categoria="Acc. Interruptor" CodProduc="1SDA066422R1">
+        <descrip>Contacto aux. XT1-XT4, 1NA/1NC (Q) Ã³ 1NA/NC (SY), marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.BYPASS" zoom="0.200000003" nombre="BYPASS TG-UPS" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0136" modelo="T3N" nombre="interruptor de 4x200 A, tetra" CtoUnit="1207" Hor_hom="." Arc_imag="ABB-IN.T3.4" Id_almac="234851T402003N" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA051305R1">
+        <descrip>Int. termomagnÃ©tico de 4x200A, 50/36/25kA-220/380/440V, modelo T3N, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0526" modelo="" nombre="enclavamiento mecanico horizontal para T3" CtoUnit="789" Hor_hom="." Arc_imag="" Id_almac="1SDA063324R1" cantidad="1" dctoadic="36.20000076" Categoria="Acc. Interruptor" CodProduc="1SDA063324R1">
+        <descrip>MIR, enclavamiento horizontal</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0136" modelo="T3N" nombre="interruptor de 4x200 A, tetra" CtoUnit="1207" Hor_hom="." Arc_imag="ABB-IN.T3.4" Id_almac="234851T402003N" cantidad="2" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA051305R1">
+        <descrip>Int. termomagnÃ©tico de 4x200A, 50/36/25kA-220/380/440V, modelo T3N, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TG-UPS" zoom="0.200000003" nombre="TG-UPS" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0136" modelo="T3N" nombre="interruptor de 4x200 A, tetra" CtoUnit="1207" Hor_hom="." Arc_imag="ABB-IN.T3.4" Id_almac="234851T402003N" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA051305R1">
+        <descrip>Int. termomagnÃ©tico de 4x200A, 50/36/25kA-220/380/440V, modelo T3N, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0537" modelo="XT1-XT4" nombre="contacto aux.XT1-XT4, estado - seÃ±alizacion de disparo" CtoUnit="109" Hor_hom="." Arc_imag="" Id_almac="1SDA066422R1" cantidad="1" dctoadic="36.20000076" Categoria="Acc. Interruptor" CodProduc="1SDA066422R1">
+        <descrip>Contacto aux. XT1-XT4, 1NA/1NC (Q) Ã³ 1NA/NC (SY), marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0252" modelo="XT1C" nombre="interruptor de 4x50 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067403R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067403R1">
+        <descrip>Int. termomagnÃ©tico de 4x50A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0254" modelo="XT1C" nombre="interruptor de 4x32 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067401R1" cantidad="6" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067401R1">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0537" modelo="XT1-XT4" nombre="contacto aux.XT1-XT4, estado - seÃ±alizacion de disparo" CtoUnit="109" Hor_hom="." Arc_imag="" Id_almac="1SDA066422R1" cantidad="7" dctoadic="36.20000076" Categoria="Acc. Interruptor" CodProduc="1SDA066422R1">
+        <descrip>Contacto aux. XT1-XT4, 1NA/1NC (Q) Ã³ 1NA/NC (SY), marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TTA-3" zoom="0.200000003" nombre="TTA-3" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0045" modelo="T3N" nombre="transferencia de 4x200 A t3N, tetra" CtoUnit="5549.600098" Hor_hom="." Arc_imag="ABB-TR.T3.4" Id_almac="2377T3N4x200" cantidad="1" dctoadic="36.20000076" Categoria="Transferencia Automatica" CodProduc="">
+        <descrip>Transferencia automÃ¡tica de 200A, equipada con:
+    02 Interruptores termomagnÃ©ticos de 4x200A, modelo T3N
+    02 Mandos solenoides sobrepuesto
+    01 Kit de enclavamiento mecÃ¡nico
+    01 Kit de enclavamiento elÃ©ctrico
+    01 Conjunto de fusibles, borneras y accesorios de control</descrip>
+        <Definic>=2*@1SDA068069R1+2*@1SDA066460R1+4*@1SDA066422R1+1*@1SDA066637R1+2*@1SDA066643R1+2*@1SBL137001R1301+2*@1SBN010110R1010+1*@1SBN030111R1000+4*@GJH1211001R8220</Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0072" modelo="ATS022" nombre="mÃ³dulo de transferencia automÃ¡tica AtS022" CtoUnit="3918" Hor_hom="." Arc_imag="ABB-MT.22" Id_almac="1SDA065524R1" cantidad="1" dctoadic="36.20000076" Categoria="Modulo de Transferencia" CodProduc="1SDA065524R1">
+        <descrip>MÃ³dulo de transferencia automÃ¡tica, modelo ATS022, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.GENERAL" zoom="0.200000003" nombre="GENERAL CONTRA INCENDIOS" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0136" modelo="T3N" nombre="interruptor de 4x200 A, tetra" CtoUnit="1207" Hor_hom="." Arc_imag="ABB-IN.T3.4" Id_almac="234851T402003N" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA051305R1">
+        <descrip>Int. termomagnÃ©tico de 4x200A, 50/36/25kA-220/380/440V, modelo T3N, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0249" modelo="XT1C" nombre="interruptor de 4x100 A" CtoUnit="587" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067406R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067406R1">
+        <descrip>Int. termomagnÃ©tico de 4x100A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0254" modelo="XT1C" nombre="interruptor de 4x32 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067401R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067401R1">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-S1" zoom="0.200000003" nombre="TD-S1" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0274" modelo="XT1B" nombre="interruptor de 4x20 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066811R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066811R1">
+        <descrip>Int. termomagnÃ©tico de 4x20A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0334" modelo="S200" nombre="interruptor de 4x32 A, tetra s200" CtoUnit="120" Hor_hom="." Arc_imag="ABB-IN.S200.4" Id_almac="234851S4003200" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS254001R0324">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0355" modelo="S200" nombre="interruptor de 2x16 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0164" cantidad="4" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0164">
+        <descrip>Int. termomagnÃ©tico de 2x16A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="5" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TPCI" zoom="0.200000003" nombre="TPCI" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0249" modelo="XT1C" nombre="interruptor de 4x100 A" CtoUnit="587" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067406R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067406R1">
+        <descrip>Int. termomagnÃ©tico de 4x100A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0250" modelo="XT1C" nombre="interruptor de 4x80 A" CtoUnit="587" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067405R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067405R1">
+        <descrip>Int. termomagnÃ©tico de 4x80A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0255" modelo="XT1C" nombre="interruptor de 4x25 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067400R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067400R1">
+        <descrip>Int. termomagnÃ©tico de 4x25A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TBDES" zoom="0.200000003" nombre="TBDES" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0255" modelo="XT1C" nombre="interruptor de 4x25 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067400R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067400R1">
+        <descrip>Int. termomagnÃ©tico de 4x25A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0255" modelo="XT1C" nombre="interruptor de 4x25 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067400R1" cantidad="2" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067400R1">
+        <descrip>Int. termomagnÃ©tico de 4x25A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TABL" zoom="0.200000003" nombre="TABL" EsGrupo="F" tipTabS="0">
+      <notas></notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0253" modelo="XT1C" nombre="interruptor de 4x40 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067402R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067402R1">
+        <descrip>Int. termomagnÃ©tico de 4x40A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0255" modelo="XT1C" nombre="interruptor de 4x25 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067400R1" cantidad="3" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067400R1">
+        <descrip>Int. termomagnÃ©tico de 4x25A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TADU" zoom="0.200000003" nombre="TADU" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0252" modelo="XT1C" nombre="interruptor de 4x50 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067403R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067403R1">
+        <descrip>Int. termomagnÃ©tico de 4x50A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0255" modelo="XT1C" nombre="interruptor de 4x25 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067400R1" cantidad="4" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067400R1">
+        <descrip>Int. termomagnÃ©tico de 4x25A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TACA" zoom="0.200000003" nombre="TACA" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0255" modelo="XT1C" nombre="interruptor de 4x25 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067400R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067400R1">
+        <descrip>Int. termomagnÃ©tico de 4x25A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0255" modelo="XT1C" nombre="interruptor de 4x25 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067400R1" cantidad="2" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067400R1">
+        <descrip>Int. termomagnÃ©tico de 4x25A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-CAFETER" zoom="0.200000003" nombre="TD-CAFETERIA" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0272" modelo="XT1B" nombre="interruptor de 4x32 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066813R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066813R1">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0351" modelo="S200" nombre="interruptor de 2x40 A" CtoUnit="71" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0404" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0404">
+        <descrip>Int. termomagnÃ©tico de 2x40A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="3" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0399" modelo="F200 AP-R" nombre="interruptor dif. de 2x40 A, SUPER" CtoUnit="267" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1400" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1400">
+        <descrip>Int. diferencial de 2x40A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="3" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD.UPS-1" zoom="0.200000003" nombre="TD.UPS-1" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0272" modelo="XT1B" nombre="interruptor de 4x32 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066813R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066813R1">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="13" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="13" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-LABORAT" zoom="0.200000003" nombre="TD-LABORATORIO" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0274" modelo="XT1B" nombre="interruptor de 4x20 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066811R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066811R1">
+        <descrip>Int. termomagnÃ©tico de 4x20A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="9" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="9" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD.UPS-2" zoom="0.200000003" nombre="TD.UPS-2" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0270" modelo="XT1B" nombre="interruptor de 4x50 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066815R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066815R1">
+        <descrip>Int. termomagnÃ©tico de 4x50A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0352" modelo="S200" nombre="interruptor de 2x32 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="234851S2003200" cantidad="4" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0324">
+        <descrip>Int. termomagnÃ©tico de 2x32A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="10" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0399" modelo="F200 AP-R" nombre="interruptor dif. de 2x40 A, SUPER" CtoUnit="267" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1400" cantidad="4" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1400">
+        <descrip>Int. diferencial de 2x40A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="10" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD.UPS-3" zoom="0.200000003" nombre="TD.UPS-3" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0272" modelo="XT1B" nombre="interruptor de 4x32 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066813R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066813R1">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="10" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="10" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-1" zoom="0.200000003" nombre="TD-1" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0267" modelo="XT1B" nombre="interruptor de 4x100 A" CtoUnit="435" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066818R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066818R1">
+        <descrip>Int. termomagnÃ©tico de 4x100A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0334" modelo="S200" nombre="interruptor de 4x32 A, tetra s200" CtoUnit="120" Hor_hom="." Arc_imag="ABB-IN.S200.4" Id_almac="234851S4003200" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS254001R0324">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0353" modelo="S200" nombre="interruptor de 2x25 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="234851S2002500" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0254">
+        <descrip>Int. termomagnÃ©tico de 2x25A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="13" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0355" modelo="S200" nombre="interruptor de 2x16 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0164" cantidad="9" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0164">
+        <descrip>Int. termomagnÃ©tico de 2x16A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="23" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0406" modelo="AF09-30-10" nombre="contactor de 3x9 A. Ac-3  (25 A  Ac-1)" CtoUnit="72" Hor_hom="." Arc_imag="ABB-K9.K16.3" Id_almac="1SBL137001R1310" cantidad="2" dctoadic="36.20000076" Categoria="Contactor" CodProduc="1SBL137001R1310">
+        <descrip>Contactor de 3x9A AC-3  (25A  AC-1), 1 NA, modelo AF09-30-10, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0404" modelo="D1" nombre="interruptor Horario Digital" CtoUnit="413" Hor_hom="." Arc_imag="ABB-IN.HORA.DIG" Id_almac="2CSM258763R0621" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="2CSM258763R0621">
+        <descrip>Interruptor horario digital, modelo D1, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0502" modelo="CP1-10R-01" nombre="pulsador compacto rojo - 1 Nc" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1041" cantidad="2" dctoadic="0" Categoria="Equipo de Control" CodProduc="1SFA619100R1041">
+        <descrip>Pulsador compacto rojo - 1 NC</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0503" modelo="CP1-10G-10" nombre="pulsador compacto verde - 1 NA" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1012" cantidad="2" dctoadic="0" Categoria="Equipo de Control" CodProduc="1SFA619100R1012">
+        <descrip>Pulsador compacto verde - 1 NA</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-2" zoom="0.200000003" nombre="TD-2" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0279" modelo="XT1B" nombre="interruptor de 3x80 A" CtoUnit="337" Hor_hom="." Arc_imag="ABB-IN.XT1.3" Id_almac="1SDA066806R1" cantidad="1" dctoadic="0" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066806R1">
+        <descrip>Int. termomagnÃ©tico de 3x80A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0334" modelo="S200" nombre="interruptor de 4x32 A, tetra s200" CtoUnit="120" Hor_hom="." Arc_imag="ABB-IN.S200.4" Id_almac="234851S4003200" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS254001R0324">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0353" modelo="S200" nombre="interruptor de 2x25 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="234851S2002500" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0254">
+        <descrip>Int. termomagnÃ©tico de 2x25A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="9" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0355" modelo="S200" nombre="interruptor de 2x16 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0164" cantidad="7" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0164">
+        <descrip>Int. termomagnÃ©tico de 2x16A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="17" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0406" modelo="AF09-30-10" nombre="contactor de 3x9 A. Ac-3  (25 A  Ac-1)" CtoUnit="72" Hor_hom="." Arc_imag="ABB-K9.K16.3" Id_almac="1SBL137001R1310" cantidad="2" dctoadic="36.20000076" Categoria="Contactor" CodProduc="1SBL137001R1310">
+        <descrip>Contactor de 3x9A AC-3  (25A  AC-1), 1 NA, modelo AF09-30-10, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0404" modelo="D1" nombre="interruptor Horario Digital" CtoUnit="413" Hor_hom="." Arc_imag="ABB-IN.HORA.DIG" Id_almac="2CSM258763R0621" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="2CSM258763R0621">
+        <descrip>Interruptor horario digital, modelo D1, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0502" modelo="CP1-10R-01" nombre="pulsador compacto rojo - 1 Nc" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1041" cantidad="2" dctoadic="0" Categoria="Equipo de Control" CodProduc="1SFA619100R1041">
+        <descrip>Pulsador compacto rojo - 1 NC</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0503" modelo="CP1-10G-10" nombre="pulsador compacto verde - 1 NA" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1012" cantidad="2" dctoadic="0" Categoria="Equipo de Control" CodProduc="1SFA619100R1012">
+        <descrip>Pulsador compacto verde - 1 NA</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-3" zoom="0.200000003" nombre="TD-3" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0268" modelo="XT1B" nombre="interruptor de 4x80 A" CtoUnit="435" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066817R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066817R1">
+        <descrip>Int. termomagnÃ©tico de 4x80A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0334" modelo="S200" nombre="interruptor de 4x32 A, tetra s200" CtoUnit="120" Hor_hom="." Arc_imag="ABB-IN.S200.4" Id_almac="234851S4003200" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS254001R0324">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0353" modelo="S200" nombre="interruptor de 2x25 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="234851S2002500" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0254">
+        <descrip>Int. termomagnÃ©tico de 2x25A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="11" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0355" modelo="S200" nombre="interruptor de 2x16 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0164" cantidad="7" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0164">
+        <descrip>Int. termomagnÃ©tico de 2x16A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="19" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0406" modelo="AF09-30-10" nombre="contactor de 3x9 A. Ac-3  (25 A  Ac-1)" CtoUnit="72" Hor_hom="." Arc_imag="ABB-K9.K16.3" Id_almac="1SBL137001R1310" cantidad="2" dctoadic="36.20000076" Categoria="Contactor" CodProduc="1SBL137001R1310">
+        <descrip>Contactor de 3x9A AC-3  (25A  AC-1), 1 NA, modelo AF09-30-10, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0404" modelo="D1" nombre="interruptor Horario Digital" CtoUnit="413" Hor_hom="." Arc_imag="ABB-IN.HORA.DIG" Id_almac="2CSM258763R0621" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="2CSM258763R0621">
+        <descrip>Interruptor horario digital, modelo D1, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0503" modelo="CP1-10G-10" nombre="pulsador compacto verde - 1 NA" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1012" cantidad="2" dctoadic="0" Categoria="Equipo de Control" CodProduc="1SFA619100R1012">
+        <descrip>Pulsador compacto verde - 1 NA</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0502" modelo="CP1-10R-01" nombre="pulsador compacto rojo - 1 Nc" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1041" cantidad="2" dctoadic="0" Categoria="Equipo de Control" CodProduc="1SFA619100R1041">
+        <descrip>Pulsador compacto rojo - 1 NC</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD.UPS-4" zoom="0.200000003" nombre="TD.UPS-4" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0272" modelo="XT1B" nombre="interruptor de 4x32 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066813R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066813R1">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="9" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="9" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-UNIDENT" zoom="0.200000003" nombre="TD-UNIDENTAL" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0285" modelo="XT1B" nombre="interruptor de 3x20 A" CtoUnit="310" Hor_hom="." Arc_imag="ABB-IN.XT1.3" Id_almac="1SDA066800R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066800R1">
+        <descrip>Int. termomagnÃ©tico de 3x20A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="5" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="5" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-RAYOS" zoom="0.200000003" nombre="TD-RAYOS X DENTAL" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0270" modelo="XT1B" nombre="interruptor de 4x50 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066815R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066815R1">
+        <descrip>Int. termomagnÃ©tico de 4x50A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0349" modelo="S200" nombre="interruptor de 2x63 A" CtoUnit="73" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0634" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0634">
+        <descrip>Int. termomagnÃ©tico de 2x63A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0350" modelo="S200" nombre="interruptor de 2x50 A" CtoUnit="73" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0504" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0504">
+        <descrip>Int. termomagnÃ©tico de 2x50A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0398" modelo="F200 AP-R" nombre="interruptor dif. de 2x63 A, SUPER" CtoUnit="346" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1630" cantidad="2" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1630">
+        <descrip>Int. diferencial de 2x63A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-SOBRE" zoom="0.200000003" nombre="TD-SOBRE PRESION" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0250" modelo="XT1C" nombre="interruptor de 4x80 A" CtoUnit="587" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067405R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067405R1">
+        <descrip>Int. termomagnÃ©tico de 4x80A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0253" modelo="XT1C" nombre="interruptor de 4x40 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067402R1" cantidad="2" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067402R1">
+        <descrip>Int. termomagnÃ©tico de 4x40A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD.DATA" zoom="0.200000003" nombre="TD.DATA CENTER" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0254" modelo="XT1C" nombre="interruptor de 4x32 A" CtoUnit="561" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA067401R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA067401R1">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 40/25/25kA-220/380/440V, modelo XT1C, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="8" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="8" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-4" zoom="0.200000003" nombre="TD-4" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0268" modelo="XT1B" nombre="interruptor de 4x80 A" CtoUnit="435" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066817R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066817R1">
+        <descrip>Int. termomagnÃ©tico de 4x80A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0334" modelo="S200" nombre="interruptor de 4x32 A, tetra s200" CtoUnit="120" Hor_hom="." Arc_imag="ABB-IN.S200.4" Id_almac="234851S4003200" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS254001R0324">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0353" modelo="S200" nombre="interruptor de 2x25 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="234851S2002500" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0254">
+        <descrip>Int. termomagnÃ©tico de 2x25A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="11" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0355" modelo="S200" nombre="interruptor de 2x16 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0164" cantidad="7" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0164">
+        <descrip>Int. termomagnÃ©tico de 2x16A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="19" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0406" modelo="AF09-30-10" nombre="contactor de 3x9 A. Ac-3  (25 A  Ac-1)" CtoUnit="72" Hor_hom="." Arc_imag="ABB-K9.K16.3" Id_almac="1SBL137001R1310" cantidad="2" dctoadic="36.20000076" Categoria="Contactor" CodProduc="1SBL137001R1310">
+        <descrip>Contactor de 3x9A AC-3  (25A  AC-1), 1 NA, modelo AF09-30-10, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0404" modelo="D1" nombre="interruptor Horario Digital" CtoUnit="413" Hor_hom="." Arc_imag="ABB-IN.HORA.DIG" Id_almac="2CSM258763R0621" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="2CSM258763R0621">
+        <descrip>Interruptor horario digital, modelo D1, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0502" modelo="CP1-10R-01" nombre="pulsador compacto rojo - 1 Nc" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1041" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="1SFA619100R1041">
+        <descrip>Pulsador compacto rojo - 1 NC</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0503" modelo="CP1-10G-10" nombre="pulsador compacto verde - 1 NA" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1012" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="1SFA619100R1012">
+        <descrip>Pulsador compacto verde - 1 NA</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-CLI" zoom="0.200000003" nombre="TD-CLI" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0045" modelo="T3N" nombre="transferencia de 4x200 A t3N, tetra" CtoUnit="5549.600098" Hor_hom="." Arc_imag="ABB-TR.T3.4" Id_almac="2377T3N4x200" cantidad="1" dctoadic="36.20000076" Categoria="Transferencia Automatica" CodProduc="">
+        <descrip>Transferencia automÃ¡tica de 200A, equipada con:
+    02 Interruptores termomagnÃ©ticos de 4x200A, modelo T3N
+    02 Mandos solenoides sobrepuesto
+    01 Kit de enclavamiento mecÃ¡nico
+    01 Kit de enclavamiento elÃ©ctrico
+    01 Conjunto de fusibles, borneras y accesorios de control</descrip>
+        <Definic>=2*@1SDA068069R1+2*@1SDA066460R1+4*@1SDA066422R1+1*@1SDA066637R1+2*@1SDA066643R1+2*@1SBL137001R1301+2*@1SBN010110R1010+1*@1SBN030111R1000+4*@GJH1211001R8220</Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0333" modelo="S200" nombre="interruptor de 4x40 A, tetra s200" CtoUnit="170" Hor_hom="." Arc_imag="ABB-IN.S200.4" Id_almac="234851S4004000" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS254001R0404">
+        <descrip>Int. termomagnÃ©tico de 4x40A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0334" modelo="S200" nombre="interruptor de 4x32 A, tetra s200" CtoUnit="120" Hor_hom="." Arc_imag="ABB-IN.S200.4" Id_almac="234851S4003200" cantidad="4" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS254001R0324">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0335" modelo="S200" nombre="interruptor de 4x25 A, tetra s200" CtoUnit="120" Hor_hom="." Arc_imag="ABB-IN.S200.4" Id_almac="234851S4002500" cantidad="11" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS254001R0254">
+        <descrip>Int. termomagnÃ©tico de 4x25A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0337" modelo="S200" nombre="interruptor de 4x16 A, tetra s200" CtoUnit="120" Hor_hom="." Arc_imag="ABB-IN.S200.4" Id_almac="234851S4001600" cantidad="4" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS254001R0164">
+        <descrip>Int. termomagnÃ©tico de 4x16A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0355" modelo="S200" nombre="interruptor de 2x16 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0164" cantidad="2" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0164">
+        <descrip>Int. termomagnÃ©tico de 2x16A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0356" modelo="S200" nombre="interruptor de 2x10 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="234851S2001000" cantidad="2" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0104">
+        <descrip>Int. termomagnÃ©tico de 2x10A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0374" modelo="FH200" nombre="interruptor dif. de 4x40 A, FH200-Ac" CtoUnit="222" Hor_hom="." Arc_imag="ABB-IN.FH200.4" Id_almac="1TMF204006R1400" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="1TMF204006R1400">
+        <descrip>Int. diferencial de 4x40A, 30mA, tipo AC, modelo FH200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2400" y="2400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0771" modelo="F200 A" nombre="interruptor dif. de 4x25 A, 300mA F200" CtoUnit="261" Hor_hom="." Arc_imag="ABB-IN.FH200.4" Id_almac="2CSF204005R3250" cantidad="2" dctoadic="0" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF204005R3250">
+        <descrip>Int. diferencial de 4x25A, 300mA, tipo AC, modelo F200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0375" modelo="FH200" nombre="interruptor dif. de 4x25 A, FH200-Ac" CtoUnit="202" Hor_hom="." Arc_imag="ABB-IN.FH200.4" Id_almac="1TMF204006R1250" cantidad="4" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="1TMF204006R1250">
+        <descrip>Int. diferencial de 4x25A, 30mA, tipo AC, modelo FH200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0380" modelo="FH200" nombre="interruptor dif. de 2x25 A, FH200-Ac" CtoUnit="143" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="1TMF202006R1250" cantidad="2" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="1TMF202006R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, tipo AC, modelo FH200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-5.1" zoom="0.200000003" nombre="TD-5.1" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0270" modelo="XT1B" nombre="interruptor de 4x50 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066815R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066815R1">
+        <descrip>Int. termomagnÃ©tico de 4x50A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0334" modelo="S200" nombre="interruptor de 4x32 A, tetra s200" CtoUnit="120" Hor_hom="." Arc_imag="ABB-IN.S200.4" Id_almac="234851S4003200" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS254001R0324">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0353" modelo="S200" nombre="interruptor de 2x25 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="234851S2002500" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0254">
+        <descrip>Int. termomagnÃ©tico de 2x25A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="8" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0355" modelo="S200" nombre="interruptor de 2x16 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0164" cantidad="6" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0164">
+        <descrip>Int. termomagnÃ©tico de 2x16A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="15" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0406" modelo="AF09-30-10" nombre="contactor de 3x9 A. Ac-3  (25 A  Ac-1)" CtoUnit="72" Hor_hom="." Arc_imag="ABB-K9.K16.3" Id_almac="1SBL137001R1310" cantidad="2" dctoadic="36.20000076" Categoria="Contactor" CodProduc="1SBL137001R1310">
+        <descrip>Contactor de 3x9A AC-3  (25A  AC-1), 1 NA, modelo AF09-30-10, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0404" modelo="D1" nombre="interruptor Horario Digital" CtoUnit="413" Hor_hom="." Arc_imag="ABB-IN.HORA.DIG" Id_almac="2CSM258763R0621" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="2CSM258763R0621">
+        <descrip>Interruptor horario digital, modelo D1, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0502" modelo="CP1-10R-01" nombre="pulsador compacto rojo - 1 Nc" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1041" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="1SFA619100R1041">
+        <descrip>Pulsador compacto rojo - 1 NC</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0503" modelo="CP1-10G-10" nombre="pulsador compacto verde - 1 NA" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1012" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="1SFA619100R1012">
+        <descrip>Pulsador compacto verde - 1 NA</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-5.2" zoom="0.200000003" nombre="TD-5.2" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0271" modelo="XT1B" nombre="interruptor de 4x40 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066814R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066814R1">
+        <descrip>Int. termomagnÃ©tico de 4x40A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0334" modelo="S200" nombre="interruptor de 4x32 A, tetra s200" CtoUnit="120" Hor_hom="." Arc_imag="ABB-IN.S200.4" Id_almac="234851S4003200" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS254001R0324">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0353" modelo="S200" nombre="interruptor de 2x25 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="234851S2002500" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0254">
+        <descrip>Int. termomagnÃ©tico de 2x25A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="8" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0355" modelo="S200" nombre="interruptor de 2x16 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0164" cantidad="5" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0164">
+        <descrip>Int. termomagnÃ©tico de 2x16A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="14" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0406" modelo="AF09-30-10" nombre="contactor de 3x9 A. Ac-3  (25 A  Ac-1)" CtoUnit="72" Hor_hom="." Arc_imag="ABB-K9.K16.3" Id_almac="1SBL137001R1310" cantidad="2" dctoadic="36.20000076" Categoria="Contactor" CodProduc="1SBL137001R1310">
+        <descrip>Contactor de 3x9A AC-3  (25A  AC-1), 1 NA, modelo AF09-30-10, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0404" modelo="D1" nombre="interruptor Horario Digital" CtoUnit="413" Hor_hom="." Arc_imag="ABB-IN.HORA.DIG" Id_almac="2CSM258763R0621" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="2CSM258763R0621">
+        <descrip>Interruptor horario digital, modelo D1, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0502" modelo="CP1-10R-01" nombre="pulsador compacto rojo - 1 Nc" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1041" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="1SFA619100R1041">
+        <descrip>Pulsador compacto rojo - 1 NC</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0503" modelo="CP1-10G-10" nombre="pulsador compacto verde - 1 NA" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1012" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="1SFA619100R1012">
+        <descrip>Pulsador compacto verde - 1 NA</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-6.1" zoom="0.200000003" nombre="TD-6.1" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0269" modelo="XT1B" nombre="interruptor de 4x63 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066816R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066816R1">
+        <descrip>Int. termomagnÃ©tico de 4x63A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0334" modelo="S200" nombre="interruptor de 4x32 A, tetra s200" CtoUnit="120" Hor_hom="." Arc_imag="ABB-IN.S200.4" Id_almac="234851S4003200" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS254001R0324">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0353" modelo="S200" nombre="interruptor de 2x25 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="234851S2002500" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0254">
+        <descrip>Int. termomagnÃ©tico de 2x25A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="10" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0355" modelo="S200" nombre="interruptor de 2x16 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0164" cantidad="8" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0164">
+        <descrip>Int. termomagnÃ©tico de 2x16A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="19" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0406" modelo="AF09-30-10" nombre="contactor de 3x9 A. Ac-3  (25 A  Ac-1)" CtoUnit="72" Hor_hom="." Arc_imag="ABB-K9.K16.3" Id_almac="1SBL137001R1310" cantidad="2" dctoadic="36.20000076" Categoria="Contactor" CodProduc="1SBL137001R1310">
+        <descrip>Contactor de 3x9A AC-3  (25A  AC-1), 1 NA, modelo AF09-30-10, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0404" modelo="D1" nombre="interruptor Horario Digital" CtoUnit="413" Hor_hom="." Arc_imag="ABB-IN.HORA.DIG" Id_almac="2CSM258763R0621" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="2CSM258763R0621">
+        <descrip>Interruptor horario digital, modelo D1, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0502" modelo="CP1-10R-01" nombre="pulsador compacto rojo - 1 Nc" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1041" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="1SFA619100R1041">
+        <descrip>Pulsador compacto rojo - 1 NC</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0503" modelo="CP1-10G-10" nombre="pulsador compacto verde - 1 NA" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1012" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="1SFA619100R1012">
+        <descrip>Pulsador compacto verde - 1 NA</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-UPS-5" zoom="0.200000003" nombre="TD-UPS-5" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0272" modelo="XT1B" nombre="interruptor de 4x32 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066813R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066813R1">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="10" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="10" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD-QUI" zoom="0.200000003" nombre="TD-QUI" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0270" modelo="XT1B" nombre="interruptor de 4x50 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066815R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066815R1">
+        <descrip>Int. termomagnÃ©tico de 4x50A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="3" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0355" modelo="S200" nombre="interruptor de 2x16 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0164" cantidad="4" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0164">
+        <descrip>Int. termomagnÃ©tico de 2x16A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="6" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.AISLAMIENT" zoom="0.200000003" nombre="AISLAMIENTO USO MEDICO" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0353" modelo="S200" nombre="interruptor de 2x25 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="234851S2002500" cantidad="1" dctoadic="0" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0254">
+        <descrip>Int. termomagnÃ©tico de 2x25A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="4" dctoadic="0" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0355" modelo="S200" nombre="interruptor de 2x16 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0164" cantidad="2" dctoadic="0" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0164">
+        <descrip>Int. termomagnÃ©tico de 2x16A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0356" modelo="S200" nombre="interruptor de 2x10 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="234851S2001000" cantidad="1" dctoadic="0" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0104">
+        <descrip>Int. termomagnÃ©tico de 2x10A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="4" dctoadic="0" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M1271" modelo="TI 7.5 - S" nombre="Transformador uso medico 7.5kva" CtoUnit="4852" Hor_hom="" Arc_imag="" Id_almac="2CSM230000R1541" cantidad="1" dctoadic="0" Categoria="Equipo de fuerza" CodProduc="2CSM230000R1541">
+        <descrip>Transformador de uso medico 7.5KVA  - TI 7.5 - S, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M1018" modelo="" nombre="Supervisor de aislamiento ISOLTESTER" CtoUnit="4282" Hor_hom="." Arc_imag="" Id_almac="2CSM341000R1501" cantidad="1" dctoadic="0" Categoria="Equipo de Control" CodProduc="2CSM341000R1501">
+        <descrip>Monitor de aislamiento ISOLTESTER-DIG-PLUS, 110-230 V, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M1019" modelo="" nombre="Panel de seÃ±alizacion remoto QSD-Dig 230/24, ABB" CtoUnit="494" Hor_hom="." Arc_imag="" Id_almac="234851QSDDIG" cantidad="1" dctoadic="0" Categoria="Equipo de Control" CodProduc="2CSM273063R1521">
+        <descrip>Panel de seÃ±alizacion remoto QSD-DIG 230/24, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M1272" modelo="ABL8" nombre="Fuente de alimentacion" CtoUnit="1126" Hor_hom="" Arc_imag="" Id_almac="2354ABL8RPS2410" cantidad="1" dctoadic="0" Categoria="Baterias" CodProduc="ABL8RPS24100">
+        <descrip>Fuente de alimentacion  PHASEO ABL8  240W 230 AC/ 24VDC, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M1232" modelo="" nombre="Bateria 24 V DC 12 Ah" CtoUnit="1584.099976" Hor_hom="" Arc_imag="" Id_almac="2353ABL8BPK24A1" cantidad="1" dctoadic="0" Categoria="Control" CodProduc="ABL8BPK24A12">
+        <descrip>Modulo de baterÃ­a 24 VDC 12Ah, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M1233" modelo="" nombre="Rele control de baterias ABL8" CtoUnit="1379.699951" Hor_hom="" Arc_imag="" Id_almac="2353ABL8BBU2420" cantidad="1" dctoadic="0" Categoria="control" CodProduc="ABL8BBU24200">
+        <descrip>Modulo de control regulaciÃ³n de carga de baterÃ­as, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD.6.2" zoom="0.200000003" nombre="TD.6.2" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0272" modelo="XT1B" nombre="interruptor de 4x32 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066813R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066813R1">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0334" modelo="S200" nombre="interruptor de 4x32 A, tetra s200" CtoUnit="120" Hor_hom="." Arc_imag="ABB-IN.S200.4" Id_almac="234851S4003200" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS254001R0324">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0353" modelo="S200" nombre="interruptor de 2x25 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="234851S2002500" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0254">
+        <descrip>Int. termomagnÃ©tico de 2x25A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="7" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0355" modelo="S200" nombre="interruptor de 2x16 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0164" cantidad="6" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0164">
+        <descrip>Int. termomagnÃ©tico de 2x16A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="14" dctoadic="0" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0406" modelo="AF09-30-10" nombre="contactor de 3x9 A. Ac-3  (25 A  Ac-1)" CtoUnit="72" Hor_hom="." Arc_imag="ABB-K9.K16.3" Id_almac="1SBL137001R1310" cantidad="2" dctoadic="36.20000076" Categoria="Contactor" CodProduc="1SBL137001R1310">
+        <descrip>Contactor de 3x9A AC-3  (25A  AC-1), 1 NA, modelo AF09-30-10, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0404" modelo="D1" nombre="interruptor Horario Digital" CtoUnit="413" Hor_hom="." Arc_imag="ABB-IN.HORA.DIG" Id_almac="2CSM258763R0621" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="2CSM258763R0621">
+        <descrip>Interruptor horario digital, modelo D1, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0502" modelo="CP1-10R-01" nombre="pulsador compacto rojo - 1 Nc" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1041" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="1SFA619100R1041">
+        <descrip>Pulsador compacto rojo - 1 NC</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0503" modelo="CP1-10G-10" nombre="pulsador compacto verde - 1 NA" CtoUnit="15.89999962" Hor_hom="." Arc_imag="" Id_almac="1SFA619100R1012" cantidad="2" dctoadic="36.20000076" Categoria="Equipo de Control" CodProduc="1SFA619100R1012">
+        <descrip>Pulsador compacto verde - 1 NA</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01660A.TD.UPS-6" zoom="0.200000003" nombre="TD.UPS-6" EsGrupo="F" tipTabS="0">
+      <notas>Suministro de equipos.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0272" modelo="XT1B" nombre="interruptor de 4x32 A" CtoUnit="405" Hor_hom="." Arc_imag="ABB-IN.XT1.4" Id_almac="1SDA066813R1" cantidad="1" dctoadic="36.20000076" Categoria="Interruptor de Caja Moldeada" CodProduc="1SDA066813R1">
+        <descrip>Int. termomagnÃ©tico de 4x32A, 25/18/15kA-220/380/440V, modelo XT1B, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0354" modelo="S200" nombre="interruptor de 2x20 A" CtoUnit="54" Hor_hom="." Arc_imag="ABB-IN.S200.2" Id_almac="2CDS252001R0204" cantidad="10" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="BE2CDS252001R0204">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 20/10kA-220/380V, modelo S200, marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0400" modelo="F200 AP-R" nombre="interruptor dif. de 2x25 A, SUPER" CtoUnit="247" Hor_hom="." Arc_imag="ABB-IN.FH200.2" Id_almac="2CSF202401R1250" cantidad="10" dctoadic="36.20000076" Categoria="Interruptor tipo Riel Din" CodProduc="2CSF202401R1250">
+        <descrip>Int. diferencial de 2x25A, 30mA, modelo F200AP-R, super inmunizado marca ABB</descrip>
+        <Definic></Definic>
+      </mat>
+    </tablero>
+  </tableros>
+</presupuesto>

@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presupuesto>
+  <cliente>SERVECENTER S&amp;M</cliente>
+  <atencion>ING. Conde Martin</atencion>
+  <nombre>Proyecto FIBRAFORTE</nombre>
+  <codCliente>SM1</codCliente>
+  <codigo>INE-1633</codigo>
+  <Vbase>220</Vbase>
+  <creadoPor>DANIEL</creadoPor>
+  <terminPor>DANIEL</terminPor>
+  <revisPor>DANIEL</revisPor>
+  <cerradPor></cerradPor>
+  <fechaCreac>2016:06:02:11:36:11</fechaCreac>
+  <fechaTermi>2016:06:02:14:03:07</fechaTermi>
+  <fechaRevis>2016:06:02:14:30:07</fechaRevis>
+  <fechaCierr>1899:12:30:00:00:00</fechaCierr>
+  <estado>2</estado>
+  <igv>18</igv>
+  <utilid>13</utilid>
+  <dsctAdic>0</dsctAdic>
+  <planDesc>ABB36.2producto0000
+SCHNEIDER50suma0000
+</planDesc>
+  <fecIniObra>2016:06:02:11:36:11</fecIniObra>
+  <fecFinObra>2016:07:02:11:36:11</fecFinObra>
+  <obraPor></obraPor>
+  <tableros>
+    <tablero cod="G01633S.700-TA-001" zoom="0.200000003" nombre="700-TA-001" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0839" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x32A, iK60N" CtoUnit="96" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24332" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24332">
+        <descrip>Int. termomagnÃ©tico de 3x32A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0830" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x20A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X20IK60" cantidad="6" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24220">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0843" modelo="iID" nombre="interruptor dif. de 2x25 A, iiD FH" CtoUnit="225" Hor_hom="." Arc_imag="SCH-IN.iID.2" Id_almac="234821A9R71225" cantidad="3" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9R71225">
+        <descrip>Int. diferencial de 2x25A, 30mA, tipo AC, modelo iID, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="" id_mat="M0702" modelo="" nombre="compl. Diferencial FH200-Ac/ SUPER 2x 25 A" CtoUnit="11.63000011" Hor_hom="=0.37*@020001" Arc_imag="" Id_almac="002339FH2025" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=2.5*@2303410226NENE+4*@237335PLOMOO+0.021*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.11*@2333CV150</Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="16" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="" id_mat="M0604" modelo="" nombre="complemento p/ tablero estandar 600x400x200" CtoUnit="193.8999939" Hor_hom="=0.59*@010001+1.14*@030001+0.96*@020009+0.31*@040001" Arc_imag="" Id_almac="002395DE0106" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.2*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.5*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.15*@271720+0.15*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.05*@271510+0.05*@271524+1*@2381TROPI2+0.05*@2232NC06+0.2*@2543MASI01+0.4*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+0.81*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.005*@1951RA7035</Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1187" modelo="" nombre="Tableros murales 600x400x200mm (NACIONAL)" CtoUnit="143.3800049" Hor_hom="=1.28*@030001+0.75*@010001" Arc_imag="" Id_almac="002393TM6040202" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.48*@035141151224+0.05*@0121GLP+0.1*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+2.78*@2519PQI503+0.2*@2251PAZ02+0.3*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.3*@2543MASI01+0.023*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01633S.1100-TA-00" zoom="0.200000003" nombre="1100-TA-001" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="3000" y="3000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0841" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x50A, iK60N" CtoUnit="128" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24350" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24350">
+        <descrip>Int. termomagnÃ©tico de 3x50A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0946" modelo="TeSys D" nombre="contactor de 3x32A Ac-3 (50A Ac-1),TeSys D" CtoUnit="343" Hor_hom="." Arc_imag="SCH-K38.3" Id_almac="2337LC1D32M7" cantidad="1" dctoadic="50" Categoria="Contactor" CodProduc="LC1D32M7">
+        <descrip>Contactor de 3x32A AC-3 (50A AC-1), 1 NA/NC, TeSys D, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="" id_mat="M0427" modelo="" nombre="complemento de contactor de 63 A" CtoUnit="28.78000069" Hor_hom="=0.7*@020002" Arc_imag="" Id_almac="002333CT0063" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=4*@2303410357NENE+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+6*@2373ALNCOO+0.11*@2333CV150</Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="BREMAS" id_mat="M0579" modelo="" nombre="conmutador MOA" CtoUnit="40" Hor_hom="" Arc_imag="" Id_almac="23360016" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>conmutador M - O - A</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="" id_mat="M0701" modelo="" nombre="complemento MOA" CtoUnit="36.99000168" Hor_hom="=0.4*@020007" Arc_imag="" Id_almac="002341MOA" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=10.8*@2303410138BLBL+6*@2373210150RORO+0.04*@23520+0.04*@23521+0.04*@23522+0.04*@23523+0.04*@2352R+0.04*@2352S+0.04*@2352T+0.04*@2352N+2*@1SNK505010R0000+1*@1SNK508410R0000+1*@23440002+0.1*@2321HC102+0.1*@2333CV150+0.5*@2343KS06</Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M1135" modelo="" nombre="Pulsador no luminoso IP65 XB7  ROJO NC" CtoUnit="17.10000038" Hor_hom="" Arc_imag="" Id_almac="23033XB7NA42" cantidad="1" dctoadic="50" Categoria="Equipo de Control" CodProduc="XB7NA42">
+        <descrip>Pulsador compacto rojo - 1 NC</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M1136" modelo="" nombre="Pulsador no luminoso IP65 XB7 VERDE NA" CtoUnit="17.10000038" Hor_hom="" Arc_imag="" Id_almac="23033XB7NA31" cantidad="1" dctoadic="50" Categoria="Equipo de Control" CodProduc="XB7NA31">
+        <descrip>Pulsador compacto verde - 1 NA</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="3200" y="3200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0832" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x32A, iK60N" CtoUnit="44.20000076" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="234811A9K24232" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24232">
+        <descrip>Int. termomagnÃ©tico de 2x32A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="3400" y="3400" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0830" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x20A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X20IK60" cantidad="7" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24220">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="20" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="2400" y="2400" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="2600" y="2600" par1="" par2="" val1="" val2="" marca="" id_mat="M0605" modelo="" nombre="complemento p/ tablero estandar 700x500x250" CtoUnit="226.5899963" Hor_hom="=0.82*@010001+1.58*@030001+1.32*@020009+0.43*@040001" Arc_imag="" Id_almac="002395DE0120" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.27*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.6*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.15*@271720+0.15*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.05*@271510+0.05*@271524+1.2*@2381TROPI2+0.05*@2232NC06+0.25*@2543MASI01+0.65*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.01*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.006*@1951RA7035</Definic>
+      </mat>
+      <mat x="2800" y="2800" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1188" modelo="" nombre="Tableros murales 700x500x250mm (NACIONAL)" CtoUnit="180.1600037" Hor_hom="=1.83*@030001+1.08*@010001" Arc_imag="" Id_almac="002393TM7050253" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.69*@035141151224+0.05*@0121GLP+0.1*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+3.38*@2519PQI503+0.2*@2251PAZ02+0.3*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.3*@2543MASI01+0.023*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01633S.1100-TA-00" zoom="0.200000003" nombre="1100-TA-002" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0839" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x32A, iK60N" CtoUnit="96" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24332" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24332">
+        <descrip>Int. termomagnÃ©tico de 3x32A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0830" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x20A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X20IK60" cantidad="12" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24220">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0843" modelo="iID" nombre="interruptor dif. de 2x25 A, iiD FH" CtoUnit="225" Hor_hom="." Arc_imag="SCH-IN.iID.2" Id_almac="234821A9R71225" cantidad="7" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9R71225">
+        <descrip>Int. diferencial de 2x25A, 30mA, tipo AC, modelo iID, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="" id_mat="M0702" modelo="" nombre="compl. Diferencial FH200-Ac/ SUPER 2x 25 A" CtoUnit="11.63000011" Hor_hom="=0.37*@020001" Arc_imag="" Id_almac="002339FH2025" cantidad="7" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=2.5*@2303410226NENE+4*@237335PLOMOO+0.021*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.11*@2333CV150</Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="28" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="" id_mat="M0605" modelo="" nombre="complemento p/ tablero estandar 700x500x250" CtoUnit="226.5899963" Hor_hom="=0.82*@010001+1.58*@030001+1.32*@020009+0.43*@040001" Arc_imag="" Id_almac="002395DE0120" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.27*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.6*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.15*@271720+0.15*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.05*@271510+0.05*@271524+1.2*@2381TROPI2+0.05*@2232NC06+0.25*@2543MASI01+0.65*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.01*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.006*@1951RA7035</Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1188" modelo="" nombre="Tableros murales 700x500x250mm (NACIONAL)" CtoUnit="180.1600037" Hor_hom="=1.83*@030001+1.08*@010001" Arc_imag="" Id_almac="002393TM7050253" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.69*@035141151224+0.05*@0121GLP+0.1*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+3.38*@2519PQI503+0.2*@2251PAZ02+0.3*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.3*@2543MASI01+0.023*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01633S.1200-TD-00" zoom="0.200000003" nombre="1200-TD-001" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0886" modelo="NSX160F" nombre="int. termomagnÃ©tico de 3x160A, TMD" CtoUnit="902" Hor_hom="." Arc_imag="SCH-IN.NSX.25.3" Id_almac="234811LV430630" cantidad="1" dctoadic="50" Categoria="Interruptor de Caja Moldeada" CodProduc="LV430630">
+        <descrip>Int. AutomÃ¡tico de 3x160A, 85/36/35kA-230/380/440V, modelo TM160D, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="2600" y="2600" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0842" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x63A, iK60N" CtoUnit="137" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24363" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24363">
+        <descrip>Int. termomagnÃ©tico de 3x63A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2800" y="2800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0840" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x40A, iK60N" CtoUnit="104" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24340" cantidad="3" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24340">
+        <descrip>Int. termomagnÃ©tico de 3x40A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="3000" y="3000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0833" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x40A, iK60N" CtoUnit="53.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="234811A9K24240" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24240">
+        <descrip>Int. termomagnÃ©tico de 2x40A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="3200" y="3200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0830" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x20A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X20IK60" cantidad="11" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24220">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0843" modelo="iID" nombre="interruptor dif. de 2x25 A, iiD FH" CtoUnit="225" Hor_hom="." Arc_imag="SCH-IN.iID.2" Id_almac="234821A9R71225" cantidad="6" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9R71225">
+        <descrip>Int. diferencial de 2x25A, 30mA, tipo AC, modelo iID, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="" id_mat="M0702" modelo="" nombre="compl. Diferencial FH200-Ac/ SUPER 2x 25 A" CtoUnit="11.63000011" Hor_hom="=0.37*@020001" Arc_imag="" Id_almac="002339FH2025" cantidad="6" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=2.5*@2303410226NENE+4*@237335PLOMOO+0.021*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.11*@2333CV150</Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="40" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="" id_mat="M0606" modelo="" nombre="complemento p/ tablero estandar 800x600x200" CtoUnit="260.0599976" Hor_hom="=1.09*@010001+2.09*@030001+1.75*@020009+0.57*@040001" Arc_imag="" Id_almac="002395DE0012IG" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.36*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.7*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.18*@271720+0.18*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.1*@271510+0.12*@271524+1.2*@2381TROPI2+0.05*@2232NC06+0.25*@2543MASI01+0.7*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.21*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.006*@1951RA7035</Definic>
+      </mat>
+      <mat x="2400" y="2400" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1189" modelo="" nombre="Tableros murales 800x600x200mm (NACIONAL)" CtoUnit="207.5399933" Hor_hom="=2.14*@030001+1.26*@010001" Arc_imag="" Id_almac="002393TM8060204" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.81*@035141151224+0.07*@0121GLP+0.2*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+3.98*@2519PQI503+0.25*@2251PAZ02+0.4*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.33*@2543MASI01+0.026*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01633S.1200-TD-00" zoom="0.200000003" nombre="1200-TD-002" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0886" modelo="NSX160F" nombre="int. termomagnÃ©tico de 3x160A, TMD" CtoUnit="902" Hor_hom="." Arc_imag="SCH-IN.NSX.25.3" Id_almac="234811LV430630" cantidad="1" dctoadic="50" Categoria="Interruptor de Caja Moldeada" CodProduc="LV430630">
+        <descrip>Int. AutomÃ¡tico de 3x160A, 85/36/35kA-230/380/440V, modelo TM160D, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="2600" y="2600" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0840" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x40A, iK60N" CtoUnit="104" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24340" cantidad="3" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24340">
+        <descrip>Int. termomagnÃ©tico de 3x40A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2800" y="2800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0839" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x32A, iK60N" CtoUnit="96" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24332" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24332">
+        <descrip>Int. termomagnÃ©tico de 3x32A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="3000" y="3000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0833" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x40A, iK60N" CtoUnit="53.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="234811A9K24240" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24240">
+        <descrip>Int. termomagnÃ©tico de 2x40A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="3200" y="3200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0830" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x20A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X20IK60" cantidad="7" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24220">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0843" modelo="iID" nombre="interruptor dif. de 2x25 A, iiD FH" CtoUnit="225" Hor_hom="." Arc_imag="SCH-IN.iID.2" Id_almac="234821A9R71225" cantidad="2" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9R71225">
+        <descrip>Int. diferencial de 2x25A, 30mA, tipo AC, modelo iID, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="" id_mat="M0702" modelo="" nombre="compl. Diferencial FH200-Ac/ SUPER 2x 25 A" CtoUnit="11.63000011" Hor_hom="=0.37*@020001" Arc_imag="" Id_almac="002339FH2025" cantidad="2" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=2.5*@2303410226NENE+4*@237335PLOMOO+0.021*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.11*@2333CV150</Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="32" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="" id_mat="M0606" modelo="" nombre="complemento p/ tablero estandar 800x600x200" CtoUnit="260.0599976" Hor_hom="=1.09*@010001+2.09*@030001+1.75*@020009+0.57*@040001" Arc_imag="" Id_almac="002395DE0012IG" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.36*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.7*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.18*@271720+0.18*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.1*@271510+0.12*@271524+1.2*@2381TROPI2+0.05*@2232NC06+0.25*@2543MASI01+0.7*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.21*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.006*@1951RA7035</Definic>
+      </mat>
+      <mat x="2400" y="2400" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1189" modelo="" nombre="Tableros murales 800x600x200mm (NACIONAL)" CtoUnit="207.5399933" Hor_hom="=2.14*@030001+1.26*@010001" Arc_imag="" Id_almac="002393TM8060204" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.81*@035141151224+0.07*@0121GLP+0.2*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+3.98*@2519PQI503+0.25*@2251PAZ02+0.4*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.33*@2543MASI01+0.026*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01633S.1200-TA-00" zoom="0.200000003" nombre="1200-TA-001" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0886" modelo="NSX160F" nombre="int. termomagnÃ©tico de 3x160A, TMD" CtoUnit="902" Hor_hom="." Arc_imag="SCH-IN.NSX.25.3" Id_almac="234811LV430630" cantidad="1" dctoadic="50" Categoria="Interruptor de Caja Moldeada" CodProduc="LV430630">
+        <descrip>Int. AutomÃ¡tico de 3x160A, 85/36/35kA-230/380/440V, modelo TM160D, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="2400" y="2400" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0832" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x32A, iK60N" CtoUnit="44.20000076" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="234811A9K24232" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24232">
+        <descrip>Int. termomagnÃ©tico de 2x32A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2600" y="2600" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0830" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x20A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X20IK60" cantidad="13" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24220">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2800" y="2800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0829" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x16A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X16IK60" cantidad="8" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24216">
+        <descrip>Int. termomagnÃ©tico de 2x16A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0843" modelo="iID" nombre="interruptor dif. de 2x25 A, iiD FH" CtoUnit="225" Hor_hom="." Arc_imag="SCH-IN.iID.2" Id_almac="234821A9R71225" cantidad="13" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9R71225">
+        <descrip>Int. diferencial de 2x25A, 30mA, tipo AC, modelo iID, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="" id_mat="M0702" modelo="" nombre="compl. Diferencial FH200-Ac/ SUPER 2x 25 A" CtoUnit="11.63000011" Hor_hom="=0.37*@020001" Arc_imag="" Id_almac="002339FH2025" cantidad="13" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=2.5*@2303410226NENE+4*@237335PLOMOO+0.021*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.11*@2333CV150</Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="48" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="" id_mat="M0606" modelo="" nombre="complemento p/ tablero estandar 800x600x200" CtoUnit="260.0599976" Hor_hom="=1.09*@010001+2.09*@030001+1.75*@020009+0.57*@040001" Arc_imag="" Id_almac="002395DE0012IG" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.36*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.7*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.18*@271720+0.18*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.1*@271510+0.12*@271524+1.2*@2381TROPI2+0.05*@2232NC06+0.25*@2543MASI01+0.7*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.21*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.006*@1951RA7035</Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1189" modelo="" nombre="Tableros murales 800x600x200mm (NACIONAL)" CtoUnit="207.5399933" Hor_hom="=2.14*@030001+1.26*@010001" Arc_imag="" Id_almac="002393TM8060204" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.81*@035141151224+0.07*@0121GLP+0.2*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+3.98*@2519PQI503+0.25*@2251PAZ02+0.4*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.33*@2543MASI01+0.026*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01633S.1200-TA-00" zoom="0.200000003" nombre="1200-TA-002" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0842" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x63A, iK60N" CtoUnit="137" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24363" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24363">
+        <descrip>Int. termomagnÃ©tico de 3x63A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0830" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x20A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X20IK60" cantidad="12" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24220">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0843" modelo="iID" nombre="interruptor dif. de 2x25 A, iiD FH" CtoUnit="225" Hor_hom="." Arc_imag="SCH-IN.iID.2" Id_almac="234821A9R71225" cantidad="6" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9R71225">
+        <descrip>Int. diferencial de 2x25A, 30mA, tipo AC, modelo iID, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="" id_mat="M0702" modelo="" nombre="compl. Diferencial FH200-Ac/ SUPER 2x 25 A" CtoUnit="11.63000011" Hor_hom="=0.37*@020001" Arc_imag="" Id_almac="002339FH2025" cantidad="6" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=2.5*@2303410226NENE+4*@237335PLOMOO+0.021*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.11*@2333CV150</Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="28" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="" id_mat="M0606" modelo="" nombre="complemento p/ tablero estandar 800x600x200" CtoUnit="260.0599976" Hor_hom="=1.09*@010001+2.09*@030001+1.75*@020009+0.57*@040001" Arc_imag="" Id_almac="002395DE0012IG" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.36*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.7*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.18*@271720+0.18*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.1*@271510+0.12*@271524+1.2*@2381TROPI2+0.05*@2232NC06+0.25*@2543MASI01+0.7*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.21*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.006*@1951RA7035</Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1189" modelo="" nombre="Tableros murales 800x600x200mm (NACIONAL)" CtoUnit="207.5399933" Hor_hom="=2.14*@030001+1.26*@010001" Arc_imag="" Id_almac="002393TM8060204" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.81*@035141151224+0.07*@0121GLP+0.2*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+3.98*@2519PQI503+0.25*@2251PAZ02+0.4*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.33*@2543MASI01+0.026*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01633S.1200-TA-00" zoom="0.200000003" nombre="1200-TA-003" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0839" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x32A, iK60N" CtoUnit="96" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24332" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24332">
+        <descrip>Int. termomagnÃ©tico de 3x32A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0830" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x20A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X20IK60" cantidad="6" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24220">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0843" modelo="iID" nombre="interruptor dif. de 2x25 A, iiD FH" CtoUnit="225" Hor_hom="." Arc_imag="SCH-IN.iID.2" Id_almac="234821A9R71225" cantidad="2" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9R71225">
+        <descrip>Int. diferencial de 2x25A, 30mA, tipo AC, modelo iID, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="" id_mat="M0702" modelo="" nombre="compl. Diferencial FH200-Ac/ SUPER 2x 25 A" CtoUnit="11.63000011" Hor_hom="=0.37*@020001" Arc_imag="" Id_almac="002339FH2025" cantidad="2" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=2.5*@2303410226NENE+4*@237335PLOMOO+0.021*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.11*@2333CV150</Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="16" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="" id_mat="M0605" modelo="" nombre="complemento p/ tablero estandar 700x500x250" CtoUnit="226.5899963" Hor_hom="=0.82*@010001+1.58*@030001+1.32*@020009+0.43*@040001" Arc_imag="" Id_almac="002395DE0120" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.27*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.6*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.15*@271720+0.15*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.05*@271510+0.05*@271524+1.2*@2381TROPI2+0.05*@2232NC06+0.25*@2543MASI01+0.65*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.01*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.006*@1951RA7035</Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1188" modelo="" nombre="Tableros murales 700x500x250mm (NACIONAL)" CtoUnit="180.1600037" Hor_hom="=1.83*@030001+1.08*@010001" Arc_imag="" Id_almac="002393TM7050253" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.69*@035141151224+0.05*@0121GLP+0.1*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+3.38*@2519PQI503+0.2*@2251PAZ02+0.3*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.3*@2543MASI01+0.023*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01633S.1200-TTE-0" zoom="0.200000003" nombre="1200-TTE-001" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0842" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x63A, iK60N" CtoUnit="137" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24363" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24363">
+        <descrip>Int. termomagnÃ©tico de 3x63A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0830" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x20A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X20IK60" cantidad="5" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24220">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0843" modelo="iID" nombre="interruptor dif. de 2x25 A, iiD FH" CtoUnit="225" Hor_hom="." Arc_imag="SCH-IN.iID.2" Id_almac="234821A9R71225" cantidad="5" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9R71225">
+        <descrip>Int. diferencial de 2x25A, 30mA, tipo AC, modelo iID, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="" id_mat="M0702" modelo="" nombre="compl. Diferencial FH200-Ac/ SUPER 2x 25 A" CtoUnit="11.63000011" Hor_hom="=0.37*@020001" Arc_imag="" Id_almac="002339FH2025" cantidad="5" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=2.5*@2303410226NENE+4*@237335PLOMOO+0.021*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.11*@2333CV150</Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="14" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="" id_mat="M0605" modelo="" nombre="complemento p/ tablero estandar 700x500x250" CtoUnit="226.5899963" Hor_hom="=0.82*@010001+1.58*@030001+1.32*@020009+0.43*@040001" Arc_imag="" Id_almac="002395DE0120" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.27*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.6*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.15*@271720+0.15*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.05*@271510+0.05*@271524+1.2*@2381TROPI2+0.05*@2232NC06+0.25*@2543MASI01+0.65*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.01*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.006*@1951RA7035</Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1188" modelo="" nombre="Tableros murales 700x500x250mm (NACIONAL)" CtoUnit="180.1600037" Hor_hom="=1.83*@030001+1.08*@010001" Arc_imag="" Id_almac="002393TM7050253" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.69*@035141151224+0.05*@0121GLP+0.1*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+3.38*@2519PQI503+0.2*@2251PAZ02+0.3*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.3*@2543MASI01+0.023*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01633S.1300-TD-00" zoom="0.200000003" nombre="1300-TD-001" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0886" modelo="NSX160F" nombre="int. termomagnÃ©tico de 3x160A, TMD" CtoUnit="902" Hor_hom="." Arc_imag="SCH-IN.NSX.25.3" Id_almac="234811LV430630" cantidad="1" dctoadic="50" Categoria="Interruptor de Caja Moldeada" CodProduc="LV430630">
+        <descrip>Int. AutomÃ¡tico de 3x160A, 85/36/35kA-230/380/440V, modelo TM160D, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="AUDAX" id_mat="M1273" modelo="" nombre="Transformador de tensiÃ³n de 400/220Vac, 75VA, 60Hz, monofÃ¡sico" CtoUnit="174.0099945" Hor_hom="" Arc_imag="" Id_almac="2378TRT4022AUD" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip>Transformador de tensiÃ³n de 400/220Vac, 100VA, 60Hz, trifÃ¡sico, a borneras.Â Â </descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0870" modelo="EZC100N" nombre="interruptor de 3x100 A, EZC100N" CtoUnit="252" Hor_hom="." Arc_imag="SCH-IN.EZ10.3" Id_almac="234811EZC1N3100" cantidad="1" dctoadic="50" Categoria="Interruptor de Caja Moldeada" CodProduc="EZC100N3100">
+        <descrip>Int. termomagnÃ©tico de 3x100A, 25/18/10kA-230/380/440V, modelo EZC, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2400" y="2400" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0841" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x50A, iK60N" CtoUnit="128" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24350" cantidad="2" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24350">
+        <descrip>Int. termomagnÃ©tico de 3x50A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2600" y="2600" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0839" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x32A, iK60N" CtoUnit="96" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24332" cantidad="3" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24332">
+        <descrip>Int. termomagnÃ©tico de 3x32A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="" id_mat="M0643" modelo="" nombre="enlace para T2 (160 Amp)" CtoUnit="26.64999962" Hor_hom="=0.5*@040010" Arc_imag="" Id_almac="002351T20160" cantidad="2" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.5*@2357015X03+3*@2212210406+3*@22111504+3*@22111104+3*@221304+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="20" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="" id_mat="M0666" modelo="" nombre="Principal cu 20x 5 mm (250 Amp)" CtoUnit="37.86999893" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X05" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X05+4*@2212210403+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23123030</Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="" id_mat="M0606" modelo="" nombre="complemento p/ tablero estandar 800x600x200" CtoUnit="260.0599976" Hor_hom="=1.09*@010001+2.09*@030001+1.75*@020009+0.57*@040001" Arc_imag="" Id_almac="002395DE0012IG" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.36*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.7*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.18*@271720+0.18*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.1*@271510+0.12*@271524+1.2*@2381TROPI2+0.05*@2232NC06+0.25*@2543MASI01+0.7*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.21*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.006*@1951RA7035</Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1189" modelo="" nombre="Tableros murales 800x600x200mm (NACIONAL)" CtoUnit="207.5399933" Hor_hom="=2.14*@030001+1.26*@010001" Arc_imag="" Id_almac="002393TM8060204" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.81*@035141151224+0.07*@0121GLP+0.2*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+3.98*@2519PQI503+0.25*@2251PAZ02+0.4*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.33*@2543MASI01+0.026*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01633S.1300-TD-00" zoom="0.200000003" nombre="1300-TD-002" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0886" modelo="NSX160F" nombre="int. termomagnÃ©tico de 3x160A, TMD" CtoUnit="902" Hor_hom="." Arc_imag="SCH-IN.NSX.25.3" Id_almac="234811LV430630" cantidad="1" dctoadic="50" Categoria="Interruptor de Caja Moldeada" CodProduc="LV430630">
+        <descrip>Int. AutomÃ¡tico de 3x160A, 85/36/35kA-230/380/440V, modelo TM160D, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0841" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x50A, iK60N" CtoUnit="128" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24350" cantidad="2" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24350">
+        <descrip>Int. termomagnÃ©tico de 3x50A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0839" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x32A, iK60N" CtoUnit="96" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24332" cantidad="4" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24332">
+        <descrip>Int. termomagnÃ©tico de 3x32A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2400" y="2400" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0830" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x20A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X20IK60" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24220">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="24" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="" id_mat="M0605" modelo="" nombre="complemento p/ tablero estandar 700x500x250" CtoUnit="226.5899963" Hor_hom="=0.82*@010001+1.58*@030001+1.32*@020009+0.43*@040001" Arc_imag="" Id_almac="002395DE0120" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.27*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.6*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.15*@271720+0.15*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.05*@271510+0.05*@271524+1.2*@2381TROPI2+0.05*@2232NC06+0.25*@2543MASI01+0.65*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.01*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.006*@1951RA7035</Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1188" modelo="" nombre="Tableros murales 700x500x250mm (NACIONAL)" CtoUnit="180.1600037" Hor_hom="=1.83*@030001+1.08*@010001" Arc_imag="" Id_almac="002393TM7050253" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.69*@035141151224+0.05*@0121GLP+0.1*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+3.38*@2519PQI503+0.2*@2251PAZ02+0.3*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.3*@2543MASI01+0.023*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01633S.1300-TA-00" zoom="0.200000003" nombre="1300-TA-001" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0839" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x32A, iK60N" CtoUnit="96" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24332" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24332">
+        <descrip>Int. termomagnÃ©tico de 3x32A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0830" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x20A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X20IK60" cantidad="7" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24220">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0843" modelo="iID" nombre="interruptor dif. de 2x25 A, iiD FH" CtoUnit="225" Hor_hom="." Arc_imag="SCH-IN.iID.2" Id_almac="234821A9R71225" cantidad="4" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9R71225">
+        <descrip>Int. diferencial de 2x25A, 30mA, tipo AC, modelo iID, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="" id_mat="M0702" modelo="" nombre="compl. Diferencial FH200-Ac/ SUPER 2x 25 A" CtoUnit="11.63000011" Hor_hom="=0.37*@020001" Arc_imag="" Id_almac="002339FH2025" cantidad="4" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=2.5*@2303410226NENE+4*@237335PLOMOO+0.021*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.11*@2333CV150</Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="18" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="" id_mat="M0605" modelo="" nombre="complemento p/ tablero estandar 700x500x250" CtoUnit="226.5899963" Hor_hom="=0.82*@010001+1.58*@030001+1.32*@020009+0.43*@040001" Arc_imag="" Id_almac="002395DE0120" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.27*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.6*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.15*@271720+0.15*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.05*@271510+0.05*@271524+1.2*@2381TROPI2+0.05*@2232NC06+0.25*@2543MASI01+0.65*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.01*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.006*@1951RA7035</Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1188" modelo="" nombre="Tableros murales 700x500x250mm (NACIONAL)" CtoUnit="180.1600037" Hor_hom="=1.83*@030001+1.08*@010001" Arc_imag="" Id_almac="002393TM7050253" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.69*@035141151224+0.05*@0121GLP+0.1*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+3.38*@2519PQI503+0.2*@2251PAZ02+0.3*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.3*@2543MASI01+0.023*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01633S.1300-TA-00" zoom="0.200000003" nombre="1300-TA-002" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0886" modelo="NSX160F" nombre="int. termomagnÃ©tico de 3x160A, TMD" CtoUnit="902" Hor_hom="." Arc_imag="SCH-IN.NSX.25.3" Id_almac="234811LV430630" cantidad="1" dctoadic="50" Categoria="Interruptor de Caja Moldeada" CodProduc="LV430630">
+        <descrip>Int. AutomÃ¡tico de 3x160A, 85/36/35kA-230/380/440V, modelo TM160D, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="2800" y="2800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0830" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x20A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X20IK60" cantidad="22" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24220">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0843" modelo="iID" nombre="interruptor dif. de 2x25 A, iiD FH" CtoUnit="225" Hor_hom="." Arc_imag="SCH-IN.iID.2" Id_almac="234821A9R71225" cantidad="10" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9R71225">
+        <descrip>Int. diferencial de 2x25A, 30mA, tipo AC, modelo iID, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="" id_mat="M0702" modelo="" nombre="compl. Diferencial FH200-Ac/ SUPER 2x 25 A" CtoUnit="11.63000011" Hor_hom="=0.37*@020001" Arc_imag="" Id_almac="002339FH2025" cantidad="10" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=2.5*@2303410226NENE+4*@237335PLOMOO+0.021*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.11*@2333CV150</Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0942" modelo="TeSys D" nombre="contactor de 3x9A Ac-3 (25A Ac-1),teSys D" CtoUnit="107" Hor_hom="." Arc_imag="SCH-K25.3" Id_almac="2337LC1D09M7" cantidad="1" dctoadic="50" Categoria="Contactor" CodProduc="LC1D09M7">
+        <descrip>Contactor de 3x9A AC-3 (25A AC-1), 1 NA/NC, TeSys D, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="" id_mat="M0425" modelo="" nombre="complemento de contactor de 25 A" CtoUnit="16.20000076" Hor_hom="=0.52*@020002" Arc_imag="" Id_almac="002333CT0025" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=4*@2303410226NENE+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+6*@237335PLOMOO+0.06*@2333CV150</Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0861" modelo="IH" nombre="interruptor Horario Analogico, Schneider" CtoUnit="262" Hor_hom="." Arc_imag="SCH-IN.HORA.ANA" Id_almac="23483115336" cantidad="1" dctoadic="50" Categoria="Equipo de Control" CodProduc="15336">
+        <descrip>Interruptor horario analÃ³gico, modelo IH, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="" id_mat="M0642" modelo="" nombre="complemento de interruptor horario" CtoUnit="62.27999878" Hor_hom="=1.26*@020020" Arc_imag="" Id_almac="002335IH" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=10*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+14*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.15*@2321HC102</Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="48" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="2400" y="2400" par1="" par2="" val1="" val2="" marca="" id_mat="M0606" modelo="" nombre="complemento p/ tablero estandar 800x600x200" CtoUnit="260.0599976" Hor_hom="=1.09*@010001+2.09*@030001+1.75*@020009+0.57*@040001" Arc_imag="" Id_almac="002395DE0012IG" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.36*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.7*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.18*@271720+0.18*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.1*@271510+0.12*@271524+1.2*@2381TROPI2+0.05*@2232NC06+0.25*@2543MASI01+0.7*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.21*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.006*@1951RA7035</Definic>
+      </mat>
+      <mat x="2600" y="2600" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1189" modelo="" nombre="Tableros murales 800x600x200mm (NACIONAL)" CtoUnit="207.5399933" Hor_hom="=2.14*@030001+1.26*@010001" Arc_imag="" Id_almac="002393TM8060204" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.81*@035141151224+0.07*@0121GLP+0.2*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+3.98*@2519PQI503+0.25*@2251PAZ02+0.4*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.33*@2543MASI01+0.026*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01633S.1300-TD-00" zoom="0.200000003" nombre="1300-TD-003" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0888" modelo="NSX250F" nombre="int. termomagnÃ©tico de 3x250A, TMD" CtoUnit="1260" Hor_hom="." Arc_imag="SCH-IN.NSX.25.3" Id_almac="234811LV431630" cantidad="1" dctoadic="50" Categoria="Interruptor de Caja Moldeada" CodProduc="LV431630">
+        <descrip>Int. AutomÃ¡tico de 3x250A, 85/36/35kA-230/380/440V, modelo TM250D, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0869" modelo="EZC100N" nombre="interruptor de 3x80 A, EZC100N" CtoUnit="252" Hor_hom="." Arc_imag="SCH-IN.EZ10.3" Id_almac="234811EZC1N3080" cantidad="1" dctoadic="50" Categoria="Interruptor de Caja Moldeada" CodProduc="EZC100N3080">
+        <descrip>Int. termomagnÃ©tico de 3x80A, 25/18/10kA-230/380/440V, modelo EZC, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="3800" y="3800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0842" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x63A, iK60N" CtoUnit="137" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24363" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24363">
+        <descrip>Int. termomagnÃ©tico de 3x63A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="4000" y="4000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0839" modelo="iK60N" nombre="int. termomagnÃ©tico de 3x32A, iK60N" CtoUnit="96" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9K24332" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24332">
+        <descrip>Int. termomagnÃ©tico de 3x32A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="4200" y="4200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0832" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x32A, iK60N" CtoUnit="44.20000076" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="234811A9K24232" cantidad="1" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24232">
+        <descrip>Int. termomagnÃ©tico de 2x32A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="4400" y="4400" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0830" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x20A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X20IK60" cantidad="11" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24220">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0843" modelo="iID" nombre="interruptor dif. de 2x25 A, iiD FH" CtoUnit="225" Hor_hom="." Arc_imag="SCH-IN.iID.2" Id_almac="234821A9R71225" cantidad="3" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9R71225">
+        <descrip>Int. diferencial de 2x25A, 30mA, tipo AC, modelo iID, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="" id_mat="M0702" modelo="" nombre="compl. Diferencial FH200-Ac/ SUPER 2x 25 A" CtoUnit="11.63000011" Hor_hom="=0.37*@020001" Arc_imag="" Id_almac="002339FH2025" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=2.5*@2303410226NENE+4*@237335PLOMOO+0.021*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.11*@2333CV150</Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0942" modelo="TeSys D" nombre="contactor de 3x9A Ac-3 (25A Ac-1),teSys D" CtoUnit="107" Hor_hom="." Arc_imag="SCH-K25.3" Id_almac="2337LC1D09M7" cantidad="1" dctoadic="50" Categoria="Contactor" CodProduc="LC1D09M7">
+        <descrip>Contactor de 3x9A AC-3 (25A AC-1), 1 NA/NC, TeSys D, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="" id_mat="M0425" modelo="" nombre="complemento de contactor de 25 A" CtoUnit="16.20000076" Hor_hom="=0.52*@020002" Arc_imag="" Id_almac="002333CT0025" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=4*@2303410226NENE+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+6*@237335PLOMOO+0.06*@2333CV150</Definic>
+      </mat>
+      <mat x="2400" y="2400" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0861" modelo="IH" nombre="interruptor Horario Analogico, Schneider" CtoUnit="262" Hor_hom="." Arc_imag="SCH-IN.HORA.ANA" Id_almac="23483115336" cantidad="1" dctoadic="50" Categoria="Equipo de Control" CodProduc="15336">
+        <descrip>Interruptor horario analÃ³gico, modelo IH, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2600" y="2600" par1="" par2="" val1="" val2="" marca="" id_mat="M0642" modelo="" nombre="complemento de interruptor horario" CtoUnit="62.27999878" Hor_hom="=1.26*@020020" Arc_imag="" Id_almac="002335IH" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=10*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+14*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.15*@2321HC102</Definic>
+      </mat>
+      <mat x="2800" y="2800" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="34" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="3000" y="3000" par1="" par2="" val1="" val2="" marca="" id_mat="M0643" modelo="" nombre="enlace para T2 (160 Amp)" CtoUnit="26.64999962" Hor_hom="=0.5*@040010" Arc_imag="" Id_almac="002351T20160" cantidad="2" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.5*@2357015X03+3*@2212210406+3*@22111504+3*@22111104+3*@221304+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="3200" y="3200" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="3400" y="3400" par1="" par2="" val1="" val2="" marca="" id_mat="M0606" modelo="" nombre="complemento p/ tablero estandar 800x600x200" CtoUnit="260.0599976" Hor_hom="=1.09*@010001+2.09*@030001+1.75*@020009+0.57*@040001" Arc_imag="" Id_almac="002395DE0012IG" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.36*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.7*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.18*@271720+0.18*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.1*@271510+0.12*@271524+1.2*@2381TROPI2+0.05*@2232NC06+0.25*@2543MASI01+0.7*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.21*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.006*@1951RA7035</Definic>
+      </mat>
+      <mat x="3600" y="3600" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1189" modelo="" nombre="Tableros murales 800x600x200mm (NACIONAL)" CtoUnit="207.5399933" Hor_hom="=2.14*@030001+1.26*@010001" Arc_imag="" Id_almac="002393TM8060204" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.81*@035141151224+0.07*@0121GLP+0.2*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+3.98*@2519PQI503+0.25*@2251PAZ02+0.4*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.33*@2543MASI01+0.026*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01633S.1300-TTE-0" zoom="0.200000003" nombre="1300-TTE-001" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado segun equipamento</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0869" modelo="EZC100N" nombre="interruptor de 3x80 A, EZC100N" CtoUnit="252" Hor_hom="." Arc_imag="SCH-IN.EZ10.3" Id_almac="234811EZC1N3080" cantidad="1" dctoadic="50" Categoria="Interruptor de Caja Moldeada" CodProduc="EZC100N3080">
+        <descrip>Int. termomagnÃ©tico de 3x80A, 25/18/10kA-230/380/440V, modelo EZC, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0830" modelo="iK60N" nombre="int. termomagnÃ©tico de 2x20A, iK60N" CtoUnit="39.90000153" Hor_hom="." Arc_imag="SCH-IN.iC60.2" Id_almac="2348512X20IK60" cantidad="9" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9K24220">
+        <descrip>Int. termomagnÃ©tico de 2x20A, 10/5kA-230/400V, modelo iK60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0843" modelo="iID" nombre="interruptor dif. de 2x25 A, iiD FH" CtoUnit="225" Hor_hom="." Arc_imag="SCH-IN.iID.2" Id_almac="234821A9R71225" cantidad="9" dctoadic="50" Categoria="Interruptor tipo Riel Din" CodProduc="A9R71225">
+        <descrip>Int. diferencial de 2x25A, 30mA, tipo AC, modelo iID, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="" id_mat="M0702" modelo="" nombre="compl. Diferencial FH200-Ac/ SUPER 2x 25 A" CtoUnit="11.63000011" Hor_hom="=0.37*@020001" Arc_imag="" Id_almac="002339FH2025" cantidad="9" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=2.5*@2303410226NENE+4*@237335PLOMOO+0.021*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.11*@2333CV150</Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="22" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="" id_mat="M0605" modelo="" nombre="complemento p/ tablero estandar 700x500x250" CtoUnit="226.5899963" Hor_hom="=0.82*@010001+1.58*@030001+1.32*@020009+0.43*@040001" Arc_imag="" Id_almac="002395DE0120" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.27*@035141151224+0.04*@0121GLP+0.02*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+10*@2212410303+0.6*@2207BTP+2*@2123NEGRA+1*@2561PE2015+1*@2563AL1520+1*@2563PLATAADE+1*@2365ADOSAR+1*@271616+0.15*@271720+0.15*@2717FLAT80+0.3*@2531CI080+0.2*@2613CATA01+0.2*@2535FIER80+0.15*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.05*@271510+0.05*@271524+1.2*@2381TROPI2+0.05*@2232NC06+0.25*@2543MASI01+0.65*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.01*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.006*@1951RA7035</Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1188" modelo="" nombre="Tableros murales 700x500x250mm (NACIONAL)" CtoUnit="180.1600037" Hor_hom="=1.83*@030001+1.08*@010001" Arc_imag="" Id_almac="002393TM7050253" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.69*@035141151224+0.05*@0121GLP+0.1*@2621HUAYPE+0.01*@1955RA7035+0.01*@2611LIMPIA+9*@2212210403+3*@221221A31634+3*@221303+3*@220701ADOSAR+2*@2121CROMO+3.38*@2519PQI503+0.2*@2251PAZ02+0.3*@271616+0.2*@271720+0.4*@2717FLAT80+0.4*@2613CATA01+0.1*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.3*@2543MASI01+0.023*@1951RA7035</Definic>
+      </mat>
+    </tablero>
+  </tableros>
+</presupuesto>

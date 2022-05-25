@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presupuesto>
+  <cliente>&lt;Completar Cliente&gt;</cliente>
+  <atencion>&lt;Completar Atención a&gt;</atencion>
+  <nombre>Proyecto OBRA 1662</nombre>
+  <codCliente></codCliente>
+  <codigo>INE-1662</codigo>
+  <Vbase>220</Vbase>
+  <creadoPor>tito</creadoPor>
+  <terminPor></terminPor>
+  <revisPor></revisPor>
+  <cerradPor></cerradPor>
+  <fechaCreac>2022:05:24:17:53:48</fechaCreac>
+  <fechaTermi>1899:12:30:00:00:00</fechaTermi>
+  <fechaRevis>1899:12:30:00:00:00</fechaRevis>
+  <fechaCierr>1899:12:30:00:00:00</fechaCierr>
+  <estado>0</estado>
+  <igv>18</igv>
+  <utilid>20</utilid>
+  <dsctAdic>0</dsctAdic>
+  <planDesc>ABB�36.2�producto�0�0�0�0
+SCHNEIDER�42�suma�0�0�0�0
+</planDesc>
+  <fecIniObra>2022:05:24:17:53:48</fecIniObra>
+  <fecFinObra>2022:06:23:17:53:48</fecFinObra>
+  <obraPor></obraPor>
+  <tableros>
+    <tablero cod="G01662A.TAB-1" zoom="0.2" nombre="TAB-1" EsGrupo="F" tipTabS="0">
+      <notas></notas>
+      <nombreCopias></nombreCopias>
+      <mat x="200" y="200" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0001" modelo="E6.2N" nombre="transferencia de 3x5000 A" CtoUnit="130601" Hor_hom="." Arc_imag="ABB-TR.E6.3" Id_almac="2377E350002N" cantidad="1" dctoadic="0" Categoria="Transferencia Automatica" CodProduc="1SDA071265P1">
+        <descrip>Transferencia automática de 5000A, equipada con:
+    02 Interruptores termomagnéticos de 3x5000A, modelo E6.2N, bastidor abierto
+    02 Motor de recarga, relés de apertura y cierre
+    01 Kit de enclavamiento mecánico
+    01 Kit de enclavamiento eléctrico
+    01 Conjunto de fusibles, borneras y accesorios de control,</descrip>
+        <Definic>=2*@1SDA071265R1+2*@1SDA073725R1+2*@1SDA073674R1+2*@1SDA073687R1+2*@1SDA073778R1+1*@1SDA073881R1+2*@1SDA073891R1+2*@1SDA073895R1+2*@1SBL137001R1301+2*@1SBN010110R1010+1*@1SBN030111R1000</Definic>
+      </mat>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0003" modelo="E3N" nombre="transferencia de 4x3200 A, tetra" CtoUnit="60071" Hor_hom="." Arc_imag="ABB-TR.E4.4" Id_almac="2377E3N4x3200" cantidad="1" dctoadic="0" Categoria="Transferencia Automatica" CodProduc="">
+        <descrip>Transferencia automática de 3200A, equipada con:
+    02 Interruptores termomagnéticos de 4x3200A, modelo E3N, bastidor abierto
+    02 Motor de recarga, relés de apertura y cierre
+    01 Kit de enclavamiento mecánico
+    01 Kit de enclavamiento eléctrico
+    01 Conjunto de fusibles, borneras y accesorios de control,</descrip>
+        <Definic>=2*@1SDA071775R1+2*@1SDA073725R1+2*@1SDA073674R1+2*@1SDA073687R1+2*@1SDA073778R1+1*@1SDA073881R1+2*@1SDA073890R1+2*@1SDA073895R1+2*@1SBL137001R1301+2*@1SBN010110R1010+1*@1SBN030111R1000</Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="ABB" id_mat="M0006" modelo="E2.2N" nombre="transferencia de 3x2500 A" CtoUnit="44406" Hor_hom="." Arc_imag="ABB-TR.E2.3" Id_almac="2377E325002N" cantidad="1" dctoadic="0" Categoria="Transferencia Automatica" CodProduc="1SDA071065P1">
+        <descrip>Transferencia automática de 2500A, equipada con:
+    02 Interruptores termomagnéticos de 3x2500A, modelo E2.2N, bastidor abierto
+    02 Motor de recarga, relés de apertura y cierre
+    01 Kit de enclavamiento mecánico
+    01 Kit de enclavamiento eléctrico
+    01 Conjunto de fusibles, borneras y accesorios de control</descrip>
+        <Definic>=2*@1SDA071065R1+2*@1SDA073725R1+2*@1SDA073674R1+2*@1SDA073687R1+2*@1SDA073778R1+1*@1SDA073881R1+2*@1SDA073889R1+2*@1SDA073895R1+2*@1SBL137001R1301+2*@1SBN010110R1010+1*@1SBN030111R1000</Definic>
+      </mat>
+    </tablero>
+  </tableros>
+</presupuesto>

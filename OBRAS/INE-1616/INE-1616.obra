@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presupuesto>
+  <cliente>OPTIMIZACION ENERGETICA SAC</cliente>
+  <atencion>MICHAEL ZEVALLOS</atencion>
+  <nombre>Proyecto TABLEROS ADICIONALES HUANCAYO</nombre>
+  <codCliente>OP1</codCliente>
+  <codigo>INE-1616</codigo>
+  <Vbase>380</Vbase>
+  <creadoPor>DANIEL</creadoPor>
+  <terminPor>DANIEL</terminPor>
+  <revisPor>DANIEL</revisPor>
+  <cerradPor>DANIEL</cerradPor>
+  <fechaCreac>2016:05:18:16:49:57</fechaCreac>
+  <fechaTermi>2016:05:19:07:53:06</fechaTermi>
+  <fechaRevis>2016:05:19:07:53:09</fechaRevis>
+  <fechaCierr>2016:05:24:10:19:46</fechaCierr>
+  <estado>3</estado>
+  <igv>18</igv>
+  <utilid>23</utilid>
+  <dsctAdic>0</dsctAdic>
+  <planDesc>ABB36.2producto0000
+SCHNEIDER42suma0000
+</planDesc>
+  <fecIniObra>2016:05:13:00:00:00</fecIniObra>
+  <fecFinObra>2016:06:03:00:00:00</fecFinObra>
+  <obraPor>antonio</obraPor>
+  <tableros>
+    <tablero cod="G01652S.TAAS3-1" zoom="0.200000003" nombre="TAAS3-1" EsGrupo="F" tipTabS="2">
+      <notas>Distribucion mediante platinas de cobre y cableado a borneras.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0804" modelo="iC60N" nombre="int. term 3x20A, iC60N 20/10kA-230/400V" CtoUnit="153" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9F74320" cantidad="15" dctoadic="42" Categoria="Interruptor tipo Riel Din" CodProduc="A9F74320">
+        <descrip>Int. termomagnÃ©tico de 3x20A, 20/10kA-230/400V, modelo iC60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0945" modelo="TeSys D" nombre="contactor de 3x25A Ac-3 (40A Ac-1),TeSys D" CtoUnit="240" Hor_hom="." Arc_imag="SCH-K38.3" Id_almac="2337LC1D25M7" cantidad="8" dctoadic="42" Categoria="Contactor" CodProduc="LC1D25M7">
+        <descrip>Contactor de 3x25A AC-3 (40A AC-1), 1 NA/NC, TeSys D, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="" id_mat="M0425" modelo="" nombre="complemento de contactor de 25 A" CtoUnit="16.20000076" Hor_hom="=0.52*@020002" Arc_imag="" Id_almac="002333CT0025" cantidad="14" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=4*@2303410226NENE+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+6*@237335PLOMOO+0.06*@2333CV150</Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="BREMAS" id_mat="M0579" modelo="" nombre="conmutador MOA" CtoUnit="40" Hor_hom="" Arc_imag="" Id_almac="23360016" cantidad="8" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>conmutador M - O - A</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="" id_mat="M0701" modelo="" nombre="complemento MOA" CtoUnit="36.99000168" Hor_hom="=0.4*@020007" Arc_imag="" Id_almac="002341MOA" cantidad="14" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=10.8*@2303410138BLBL+6*@2373210150RORO+0.04*@23520+0.04*@23521+0.04*@23522+0.04*@23523+0.04*@2352R+0.04*@2352S+0.04*@2352T+0.04*@2352N+2*@1SNK505010R0000+1*@1SNK508410R0000+1*@23440002+0.1*@2321HC102+0.1*@2333CV150+0.5*@2343KS06</Definic>
+      </mat>
+      <mat x="2400" y="2400" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M1135" modelo="" nombre="Pulsador no luminoso IP65 XB7  ROJO NC" CtoUnit="17.10000038" Hor_hom="" Arc_imag="" Id_almac="23033XB7NA42" cantidad="8" dctoadic="42" Categoria="Equipo de Control" CodProduc="XB7NA42">
+        <descrip>Pulsador compacto rojo - 1 NC</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2600" y="2600" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M1136" modelo="" nombre="Pulsador no luminoso IP65 XB7 VERDE NA" CtoUnit="17.10000038" Hor_hom="" Arc_imag="" Id_almac="23033XB7NA31" cantidad="8" dctoadic="42" Categoria="Equipo de Control" CodProduc="XB7NA31">
+        <descrip>Pulsador compacto verde - 1 NA</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2800" y="2800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0862" modelo="IPH" nombre="interruptor Horario Digital, Schneider" CtoUnit="457" Hor_hom="." Arc_imag="SCH-IN.HORA.DIG" Id_almac="234831CCT15854" cantidad="8" dctoadic="42" Categoria="Equipo de Control" CodProduc="CCT15854">
+        <descrip>Interruptor horario digital, modelo IPH, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="3000" y="3000" par1="" par2="" val1="" val2="" marca="" id_mat="M0642" modelo="" nombre="complemento de interruptor horario" CtoUnit="62.27999878" Hor_hom="=1.26*@020020" Arc_imag="" Id_almac="002335IH" cantidad="14" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=10*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+14*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.15*@2321HC102</Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="" id_mat="M0712" modelo="" nombre="cableado corto de 25 A" CtoUnit="7.659999847" Hor_hom="=0.13*@020008" Arc_imag="" Id_almac="002303CC0025" cantidad="60" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=2.5*@2303410226NENE+2*@237335PLOMOO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.03*@2333CV100</Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M1143" modelo="" nombre="bornera de paso 6mm" CtoUnit="3.900000095" Hor_hom="" Arc_imag="" Id_almac="2324NSYTRV62" cantidad="60" dctoadic="42" Categoria="Equipo de Control" CodProduc="NSYTRV62">
+        <descrip></descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="50" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="3" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="4000" y="4000" par1="" par2="" val1="" val2="" marca="NACIONAL" id_mat="M1196" modelo="" nombre="Tableros murales 1400x800x400mm (NACIONAL)" CtoUnit="427.3699951" Hor_hom="=5.33*@030001+3.14*@010001" Arc_imag="" Id_almac="002393TM1480402" cantidad="1" dctoadic="0" Categoria="" CodProduc="">
+        <descrip></descrip>
+        <Definic>=2.01*@035141151224+0.09*@0121GLP+0.2*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+13*@2212210403+4*@221221A31634+4*@221303+4*@220701ADOSAR+2*@2121CROMO+5.98*@2519PQI503+0.5*@2251PAZ02+0.5*@271616+0.25*@271720+0.5*@2717FLAT80+0.5*@2613CATA01+0.2*@2535FIER80+0.3*@2651JEBE09+0.3*@2541MASCAR+0.35*@2543MASI01+0.03*@1951RA7035</Definic>
+      </mat>
+      <mat x="3800" y="3800" par1="" par2="" val1="" val2="" marca="" id_mat="M0626" modelo="" nombre="complemento p/ tablero c/ borneras 1400x800x400" CtoUnit="548.2700195" Hor_hom="=2.87*@010001+5.53*@030001+4.64*@020009+1.5*@040001" Arc_imag="" Id_almac="002393BO0120IG" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.82*@035141151224+0.06*@0121GLP+0.2*@2621HUAYPE+0.02*@1955RA7035+0.02*@2611LIMPIA+5*@2212210403+17*@2212410303+3*@2207CL212381+2*@2123NEGRA+1*@2561PE3020+1*@2563AL1520+1*@2563PLATAADB+1*@2365ADOSAR+0.01*@27160014+1*@271616+0.1*@271720+0.1*@2717FLAT80+0.03*@2531CI080+0.03*@2613CATA01+0.2*@2535FIER80+0.2*@2651JEBE09+0.2*@2541MASCAR+0.2*@271512+0.2*@271510+0.2*@271524+2*@2381TROPI2+0.2*@2232NC06+0.3*@2543MASI01+1.4*@2388RG5050+1.6*@238806060+70*@22031003+35*@22031412+35*@2212210303+0.8*@2357020X03+2*@23123030+14*@2212210402+12*@22111104+12*@22111504+10*@221304+1.52*@2303410178AMAM +5*@2373330506AMAM +0.1*@2321HC102+0.03*@1955AMARILIL+0.03*@1955BLANCOCO+4*@22031012+0.009*@1951RA7035</Definic>
+      </mat>
+      <mat x="3600" y="3600" par1="" par2="" val1="" val2="" marca="" id_mat="M0733" modelo="" nombre="Kit de ventilacion natural" CtoUnit="80" Hor_hom="=2*@020006" Arc_imag="" Id_almac="2349KVNADO" cantidad="1" dctoadic="0" Categoria="Acc. Tablero" CodProduc="">
+        <descrip>Sistema de Ventilacion Natural para Adosado:
+    02 Rejillas superior e inferior dispuestas en la puerta
+    02 Filtros</descrip>
+        <Definic>=2*@2349FAD</Definic>
+      </mat>
+    </tablero>
+    <tablero cod="G01652A.TAAS2-1" zoom="0.200000003" nombre="TAAS2-1" EsGrupo="F" tipTabS="0">
+      <notas>Distribucion mediante platinas de cobre y cableado a borneras.</notas>
+      <nombreCopias></nombreCopias>
+      <mat x="400" y="400" par1="" par2="" val1="" val2="" marca="" id_mat="M0699" modelo="" nombre="SeÃ±alizacion" CtoUnit="125.6500015" Hor_hom="=1.2*@020022" Arc_imag="" Id_almac="002381MARCAS" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de SeÃ±alizacion, equipado con:
+    03 Portalamparas con lamparas tipo LED, color rojo
+    01 Conjunto de fusibles de control</descrip>
+        <Definic>=20*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+3*@23440002+16*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.2*@2321HC102+3*@1SFA619403R5231</Definic>
+      </mat>
+      <mat x="600" y="600" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0804" modelo="iC60N" nombre="int. term 3x20A, iC60N 20/10kA-230/400V" CtoUnit="153" Hor_hom="." Arc_imag="SCH-IN.iC60.3" Id_almac="234811A9F74320" cantidad="27" dctoadic="42" Categoria="Interruptor tipo Riel Din" CodProduc="A9F74320">
+        <descrip>Int. termomagnÃ©tico de 3x20A, 20/10kA-230/400V, modelo iC60N, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="800" y="800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0945" modelo="TeSys D" nombre="contactor de 3x25A Ac-3 (40A Ac-1),TeSys D" CtoUnit="240" Hor_hom="." Arc_imag="SCH-K38.3" Id_almac="2337LC1D25M7" cantidad="15" dctoadic="42" Categoria="Contactor" CodProduc="LC1D25M7">
+        <descrip>Contactor de 3x25A AC-3 (40A AC-1), 1 NA/NC, TeSys D, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1000" y="1000" par1="" par2="" val1="" val2="" marca="" id_mat="M0425" modelo="" nombre="complemento de contactor de 25 A" CtoUnit="16.20000076" Hor_hom="=0.52*@020002" Arc_imag="" Id_almac="002333CT0025" cantidad="26" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=4*@2303410226NENE+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+6*@237335PLOMOO+0.06*@2333CV150</Definic>
+      </mat>
+      <mat x="1200" y="1200" par1="" par2="" val1="" val2="" marca="BREMAS" id_mat="M0579" modelo="" nombre="conmutador MOA" CtoUnit="40" Hor_hom="" Arc_imag="" Id_almac="23360016" cantidad="15" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>conmutador M - O - A</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1400" y="1400" par1="" par2="" val1="" val2="" marca="" id_mat="M0701" modelo="" nombre="complemento MOA" CtoUnit="36.99000168" Hor_hom="=0.4*@020007" Arc_imag="" Id_almac="002341MOA" cantidad="26" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=10.8*@2303410138BLBL+6*@2373210150RORO+0.04*@23520+0.04*@23521+0.04*@23522+0.04*@23523+0.04*@2352R+0.04*@2352S+0.04*@2352T+0.04*@2352N+2*@1SNK505010R0000+1*@1SNK508410R0000+1*@23440002+0.1*@2321HC102+0.1*@2333CV150+0.5*@2343KS06</Definic>
+      </mat>
+      <mat x="1600" y="1600" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M1135" modelo="" nombre="Pulsador no luminoso IP65 XB7  ROJO NC" CtoUnit="17.10000038" Hor_hom="" Arc_imag="" Id_almac="23033XB7NA42" cantidad="15" dctoadic="42" Categoria="Equipo de Control" CodProduc="XB7NA42">
+        <descrip>Pulsador compacto rojo - 1 NC</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="1800" y="1800" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M1136" modelo="" nombre="Pulsador no luminoso IP65 XB7 VERDE NA" CtoUnit="17.10000038" Hor_hom="" Arc_imag="" Id_almac="23033XB7NA31" cantidad="15" dctoadic="42" Categoria="Equipo de Control" CodProduc="XB7NA31">
+        <descrip>Pulsador compacto verde - 1 NA</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2000" y="2000" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M0862" modelo="IPH" nombre="interruptor Horario Digital, Schneider" CtoUnit="457" Hor_hom="." Arc_imag="SCH-IN.HORA.DIG" Id_almac="234831CCT15854" cantidad="15" dctoadic="42" Categoria="Equipo de Control" CodProduc="CCT15854">
+        <descrip>Interruptor horario digital, modelo IPH, marca Schneider</descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2200" y="2200" par1="" par2="" val1="" val2="" marca="" id_mat="M0642" modelo="" nombre="complemento de interruptor horario" CtoUnit="62.27999878" Hor_hom="=1.26*@020020" Arc_imag="" Id_almac="002335IH" cantidad="26" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=10*@2303410138BLBL+3*@1SNK508410R0000+1*@1SNK505010R0000+14*@2373210150RORO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.2*@2333CV100+0.15*@2321HC102</Definic>
+      </mat>
+      <mat x="2400" y="2400" par1="" par2="" val1="" val2="" marca="" id_mat="M0717" modelo="" nombre="cableado largo de 25 A" CtoUnit="10.97000027" Hor_hom="=0.19*@020016" Arc_imag="" Id_almac="002303CL0025" cantidad="108" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=4*@2303410226NENE+2*@237335PLOMOO+0.02*@23520+0.02*@23521+0.02*@23522+0.02*@23523+0.02*@23524+0.02*@23525+0.02*@23526+0.02*@23527+0.02*@23528+0.02*@23529+0.02*@2352R+0.02*@2352S+0.02*@2352T+0.02*@2352N+0.03*@2333CV150</Definic>
+      </mat>
+      <mat x="2600" y="2600" par1="" par2="" val1="" val2="" marca="SCHNEIDER" id_mat="M1143" modelo="" nombre="bornera de paso 6mm" CtoUnit="3.900000095" Hor_hom="" Arc_imag="" Id_almac="2324NSYTRV62" cantidad="108" dctoadic="42" Categoria="Equipo de Control" CodProduc="NSYTRV62">
+        <descrip></descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="2800" y="2800" par1="" par2="" val1="" val2="" marca="" id_mat="M0736" modelo="RIEL DIN" nombre="enlace para RIEL DIN" CtoUnit="9.710000038" Hor_hom="=0.42*@040010" Arc_imag="" Id_almac="002351RIELDI" cantidad="90" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=0.3*@2357010X2+3*@2212410302+3*@22111503+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="3000" y="3000" par1="" par2="" val1="" val2="" marca="" id_mat="M0665" modelo="" nombre="Principal cu 20x 3 mm (200 Amp)" CtoUnit="31.11000061" Hor_hom="=0.5*@040012" Arc_imag="" Id_almac="002373020X03" cantidad="5" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.2*@2357020X03+4*@2212210402+4*@22111504+4*@22111104+0.01*@2245453M03+0.055*@1955ROJO+0.055*@1955NEGROO+0.055*@1955AZUL+2*@23122030</Definic>
+      </mat>
+      <mat x="3200" y="3200" par1="" par2="" val1="" val2="" marca="" id_mat="M0643" modelo="" nombre="enlace para T2 (160 Amp)" CtoUnit="26.64999962" Hor_hom="=0.5*@040010" Arc_imag="" Id_almac="002351T20160" cantidad="2" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.5*@2357015X03+3*@2212210406+3*@22111504+3*@22111104+3*@221304+0.01*@2245453M03+0.05*@1955ROJO+0.05*@1955NEGROO+0.05*@1955AZUL</Definic>
+      </mat>
+      <mat x="3400" y="3400" par1="" par2="" val1="" val2="" marca="SCHNEIDER04" id_mat="M1158" modelo="" nombre="gabinete autosoportado 2000x800x800" CtoUnit="4555" Hor_hom="" Arc_imag="" Id_almac="2345ZP0SFCE200C" cantidad="1" dctoadic="0" Categoria="" CodProduc="ZP0SFCE200X80X80">
+        <descrip></descrip>
+        <Definic></Definic>
+      </mat>
+      <mat x="3600" y="3600" par1="" par2="" val1="" val2="" marca="" id_mat="M0600" modelo="" nombre="soporteria de autosoportado con borneras" CtoUnit="1201.76001" Hor_hom="=2.992*@020011+9.528*@010003+14.658*@030003+3*@040002" Arc_imag="" Id_almac="0023464SAB" cantidad="1" dctoadic="0" Categoria="Soporteria" CodProduc="">
+        <descrip></descrip>
+        <Definic>=1.835*@035141151224+0.026*@1951RA7035+2.909*@2621HUAYPE+1*@2531CI080+1.34*@2535FIER80+0.05*@2543MASI01+0.05*@2613CATA01+3.75*@2541MASCAR+0.485*@0121GLP+1*@224545SGLUE+0.71*@271616+0.25*@271508+0.25*@2232NC06+2*@2123NEGRA+3*@2207CL212381+0.2*@2755CALAR+4*@2212210604+4*@22111506+4*@22111106+4*@221306+0.71*@271524+0.5*@2232NC12+68*@22111504+68*@22111104+68*@221304+18*@22031012+0.4*@271512+0.64*@2232NC08+64*@2212210402+2*@238806060+4*@2388RG5050+0.05*@27160014+4*@2381TROPI2+12*@22031412+1*@2365PAUTLEG+1*@2563ALI2030+1*@2561PE3020+1*@2563PLATABCS+0.12*@238321MACR1/8</Definic>
+      </mat>
+      <mat x="3800" y="3800" par1="" par2="" val1="" val2="" marca="" id_mat="M1183" modelo="" nombre="Kit de ventilacion forzada" CtoUnit="570.2800293" Hor_hom="=0.27*@010003+0.4*@020030" Arc_imag="" Id_almac="2349KVFSCH" cantidad="1" dctoadic="0" Categoria="Material" CodProduc="">
+        <descrip>Sistema de Ventilacion Forzada para Autosoportado:
+    01 Ventilador inferior dispuestas en al puerta
+    02 Rejillas superior e inferior dispuestas en la puerta
+    01 Termostato y accesorios</descrip>
+        <Definic>=1*@2349NSYCAG223LP+1*@2349NSYCVF165M2+1*@2374NSYCCOTHO</Definic>
+      </mat>
+    </tablero>
+  </tableros>
+</presupuesto>
